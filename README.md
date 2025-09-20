@@ -1,6 +1,6 @@
 # Orion4D MasterPrompt Suite for ComfyUI
 
-Welcome to the **MasterPrompt** suite, a collection of custom nodes for ComfyUI designed to supercharge your text, list, and JSON manipulation workflows. Whether you need to dynamically load styles from files, mix concepts with weighted probabilities, format complex prompts, or handle JSON data, this suite provides the necessary tools with intuitive and powerful user interfaces.
+Welcome to the **MasterPrompt** suite, a collection of custom nodes for ComfyUI designed to supercharge your text, list, and JSON manipulation workflows. Whether you need to dynamically load styles from files, mix concepts with weighted probabilities, format complex prompts, or handle JSON data, this suite provides the necessary tools with intuitive and powerful user interfaces. As a bonus I have included a basic pack of thematic lists generated with gpt5, have fun!
 
 <img width="2082" height="962" alt="image" src="https://github.com/user-attachments/assets/a2624a84-1723-49ef-965a-8e34ab25aa58" />
 <img width="1479" height="1089" alt="image" src="https://github.com/user-attachments/assets/aa67956e-6f41-4f0f-9969-1fd3884d255f" />
