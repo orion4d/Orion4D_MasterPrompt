@@ -1,12 +1,8 @@
 # Orion4D MasterPrompt Suite for ComfyUI
 
-![GitHub stars](https://img.shields.io/github/stars/orion4d/ComfyUI_unified_list_selector?style=social)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 Bienvenue dans la suite **MasterPrompt**, une collection de nodes personnalisés pour ComfyUI conçus pour suralimenter vos workflows de manipulation de texte, de listes et de JSON. Que vous ayez besoin de charger dynamiquement des styles depuis des fichiers, de mixer des concepts de manière pondérée, de formater des prompts complexes ou de manipuler des données JSON, cette suite vous offre les outils nécessaires avec des interfaces utilisateur intuitives et puissantes.
 
-## 🖼️ Aperçu
-![Aperçu des nodes MasterPrompt](https://github.com/user-attachments/assets/cf212622-5832-4242-be62-564c303b2ccb)
+<img width="2082" height="962" alt="image" src="https://github.com/user-attachments/assets/a2624a84-1723-49ef-965a-8e34ab25aa58" />
 
 ## ✨ Fonctionnalités Principales
 
@@ -25,7 +21,7 @@ Bienvenue dans la suite **MasterPrompt**, une collection de nodes personnalisés
     ```
 2.  Clonez ce dépôt.
     ```bash
-    git clone https://github.com/orion4d/ComfyUI_unified_list_selector.git
+    git clone https://github.com/orion4d/Orion4D_MasterPrompt.git
     ```
 3.  Redémarrez ComfyUI.
 
