@@ -3,6 +3,12 @@
 Welcome to the **MasterPrompt** suite, a collection of custom nodes for ComfyUI designed to supercharge your text, list, and JSON manipulation workflows. Whether you need to dynamically load styles from files, mix concepts with weighted probabilities, format complex prompts, or handle JSON data, this suite provides the necessary tools with intuitive and powerful user interfaces.
 
 <img width="2082" height="962" alt="image" src="https://github.com/user-attachments/assets/a2624a84-1723-49ef-965a-8e34ab25aa58" />
+<img width="1479" height="1089" alt="image" src="https://github.com/user-attachments/assets/aa67956e-6f41-4f0f-9969-1fd3884d255f" />
+<img width="1262" height="1147" alt="image" src="https://github.com/user-attachments/assets/95388d0b-1a1f-4483-98f3-413a1db3d518" />
+<img width="797" height="1131" alt="image" src="https://github.com/user-attachments/assets/ffb581f6-ab57-4bbe-a4c1-a57e68ffe622" />
+<img width="1116" height="1124" alt="image" src="https://github.com/user-attachments/assets/946c1eb9-7f27-4d4d-af93-1db55a208efe" />
+<img width="1056" height="967" alt="image" src="https://github.com/user-attachments/assets/53e2b084-5f6f-4ebd-a989-18aa18f9ea3c" />
+<img width="796" height="1169" alt="image" src="https://github.com/user-attachments/assets/d93cbc89-cc44-4cc2-9231-fd48c9bb2640" />
 
 ## ✨ Key Features
 
