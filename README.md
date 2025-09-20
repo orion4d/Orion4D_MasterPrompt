@@ -1,314 +1,314 @@
 # Orion4D MasterPrompt Suite for ComfyUI
 
-Bienvenue dans la suite **MasterPrompt**, une collection de nodes personnalisés pour ComfyUI conçus pour suralimenter vos workflows de manipulation de texte, de listes et de JSON. Que vous ayez besoin de charger dynamiquement des styles depuis des fichiers, de mixer des concepts de manière pondérée, de formater des prompts complexes ou de manipuler des données JSON, cette suite vous offre les outils nécessaires avec des interfaces utilisateur intuitives et puissantes.
+Welcome to the **MasterPrompt** suite, a collection of custom nodes for ComfyUI designed to supercharge your text, list, and JSON manipulation workflows. Whether you need to dynamically load styles from files, mix concepts with weighted probabilities, format complex prompts, or handle JSON data, this suite provides the necessary tools with intuitive and powerful user interfaces.
 
 <img width="2082" height="962" alt="image" src="https://github.com/user-attachments/assets/a2624a84-1723-49ef-965a-8e34ab25aa58" />
 
-## ✨ Fonctionnalités Principales
+## ✨ Key Features
 
--   **Gestion de Fichiers Avancée** : Naviguez dans vos dossiers, lisez des fichiers `.txt` et `.csv` et fusionnez-les sans effort.
--   **Interfaces Utilisateur Dynamiques** : De nombreux nodes disposent d'interfaces personnalisées qui s'actualisent en temps réel, sans recharger le navigateur.
--   **Mixage Pondéré** : Contrôlez la probabilité de sélection de différents éléments textuels grâce à un système de "température" intuitif.
--   **Boîte à Outils Texte Complète** : Remplacez, formatez, éditez, et enveloppez du texte avec des options précises.
--   **Puissance JSON** : Fusionnez, formatez, extrayez des données et convertissez des structures JSON directement dans vos workflows.
--   **Intégration Transparente** : S'intègre parfaitement à ComfyUI, avec des entrées/sorties standard pour une connexion facile à d'autres nodes.
+-   **Advanced File Management**: Navigate your folders, read `.txt` and `.csv` files, and merge them effortlessly.
+-   **Dynamic User Interfaces**: Many nodes feature custom UIs that update in real-time without needing to refresh the browser.
+-   **Weighted Mixing**: Control the selection probability of different text elements with an intuitive "temperature" system.
+-   **Comprehensive Text Toolkit**: Replace, format, edit, and wrap text with precise options.
+-   **JSON Powerhouse**: Merge, format, extract data, and convert JSON structures directly within your workflows.
+-   **Seamless Integration**: Integrates perfectly with ComfyUI, with standard inputs/outputs for easy connection to other nodes.
 
 ## ⚙️ Installation
 
-1.  Naviguez jusqu'à votre dossier `custom_nodes` de ComfyUI.
+1.  Navigate to your ComfyUI `custom_nodes` directory.
     ```bash
     cd ComfyUI/custom_nodes/
     ```
-2.  Clonez ce dépôt.
+2.  Clone this repository.
     ```bash
     git clone https://github.com/orion4d/Orion4D_MasterPrompt.git
     ```
-3.  Redémarrez ComfyUI.
+3.  Restart ComfyUI.
 
-Les nodes seront disponibles dans le menu `Add Node > MasterPrompt`.
+The nodes will be available under the `Add Node > MasterPrompt` menu.
 
 ---
 
-## 📖 Guide des Nodes
+## 📖 Node Guide
 
-Voici une description détaillée de chaque node disponible dans la suite MasterPrompt.
+Here is a detailed description of each node available in the MasterPrompt suite.
 
-### 🗂️ Section 1 : Gestion de Fichiers et de Listes
+### 🗂️ Section 1: File and List Management
 
-Ces nodes sont spécialisés dans la lecture et la manipulation de fichiers texte et CSV.
+These nodes specialize in reading and manipulating text and CSV files.
 
 #### 📂 MP • List Selector Pro
-Ce node est un explorateur de fichiers simple et efficace, confiné au dossier `ComfyUI/custom_nodes/Orion4D_MasterPrompt/lists`, pour sélectionner une ligne dans un fichier.
+This node is a simple and efficient file explorer, sandboxed to the `ComfyUI/custom_nodes/Orion4D_MasterPrompt/lists` directory, for selecting a line from a file.
 
--   **Objectif** : Choisir une ligne spécifique ou aléatoire à partir de listes prédéfinies (`.txt` ou `.csv`). Idéal pour sélectionner des styles, des noms de personnages ou des concepts.
--   **Fonctionnalités Clés** :
-    -   Navigation récursive dans les sous-dossiers.
-    -   Deux modes : `select` (choix manuel) et `random` (tirage aléatoire basé sur un `seed`).
-    -   Ajout facile de préfixes et suffixes.
-    -   Mise à jour dynamique des listes déroulantes.
--   **Entrées** :
-    -   `folder` : Menu déroulant pour choisir le dossier.
-    -   `file` : Menu déroulant pour choisir le fichier dans le dossier sélectionné.
-    -   `mode` : `select` ou `random`.
-    -   `seed` : Graine pour le mode aléatoire.
-    -   `selected_line` : Menu déroulant avec le contenu du fichier pour le mode `select`.
-    -   `custom_prefix` / `custom_suffix` : Texte à ajouter avant/après.
--   **Sortie** :
-    -   `selected_text` : La ligne choisie avec les ajouts.
+-   **Purpose**: To choose a specific or random line from predefined lists (`.txt` or `.csv`). Ideal for selecting styles, character names, or concepts.
+-   **Key Features**:
+    -   Recursive navigation through subdirectories.
+    -   Two modes: `select` (manual choice) and `random` (random pick based on a `seed`).
+    -   Easily add prefixes and suffixes.
+    -   Dynamic updates for dropdown lists.
+-   **Inputs**:
+    -   `folder`: Dropdown menu to choose the folder.
+    -   `file`: Dropdown menu to choose the file in the selected folder.
+    -   `mode`: `select` or `random`.
+    -   `seed`: Seed for the random mode.
+    -   `selected_line`: Dropdown menu with the file's content for `select` mode.
+    -   `custom_prefix` / `custom_suffix`: Text to add before/after.
+-   **Output**:
+    -   `selected_text`: The chosen line with any additions.
 
 #### 🎛️ MP • Multi List Mixer
-Ce node permet de sélectionner aléatoirement une ligne à partir de *plusieurs* fichiers, en pondérant la probabilité de choisir chaque fichier.
+This node allows you to randomly select a line from *multiple* files, weighting the probability of choosing each file.
 
--   **Objectif** : Créer des prompts variés en piochant dans différentes listes de concepts (ex: 70% de chance de piocher un style artistique, 30% un style de caméra).
--   **Fonctionnalités Clés** :
-    -   Interface dynamique pour ajouter/supprimer des sources de fichiers.
-    -   Contrôle de la "température" (poids) pour chaque fichier (0 à 10).
-    -   Le tirage est en deux étapes : 1) choix du fichier selon les poids, 2) choix d'une ligne au hasard dans ce fichier.
-    -   Tirage reproductible grâce au `seed`.
--   **Entrées** :
-    -   `config_json` (caché) : Géré automatiquement par l'interface.
-    -   `seed` : Graine pour le tirage aléatoire.
-    -   `custom_prefix` / `custom_suffix` : Texte à ajouter.
--   **Sortie** :
-    -   `mixed_text` : La ligne unique sélectionnée.
+-   **Purpose**: To create varied prompts by drawing from different lists of concepts (e.g., a 70% chance to pick an art style, 30% a camera style).
+-   **Key Features**:
+    -   Dynamic interface to add/remove file sources.
+    -   "Temperature" control (weight) for each file (0 to 10).
+    -   The selection is a two-step process: 1) choose the file based on weights, 2) choose a random line from that file.
+    -   Reproducible selection thanks to the `seed`.
+-   **Inputs**:
+    -   `config_json` (hidden): Automatically managed by the interface.
+    -   `seed`: Seed for the random selection.
+    -   `custom_prefix` / `custom_suffix`: Text to add.
+-   **Output**:
+    -   `mixed_text`: The single selected line.
 
 #### 🗃️ MP • Folder → Merge Lines
-Parcourt un dossier (et ses sous-dossiers) pour fusionner le contenu de tous les fichiers `.txt` et `.csv` en une seule grande liste.
+Scans a folder (and its subfolders) to merge the content of all `.txt` and `.csv` files into one large list.
 
--   **Objectif** : Consolider de multiples fichiers de mots-clés, de styles ou de prompts négatifs en un seul texte, prêt à être utilisé ou sauvegardé.
--   **Fonctionnalités Clés** :
-    -   Lecture récursive des dossiers.
-    -   Options de nettoyage puissantes : suppression des doublons, des lignes vides, etc.
-    -   Support CSV avancé : sélection d'une colonne spécifique et gestion de l'en-tête.
-    -   Possibilité de sauvegarder le résultat dans un nouveau fichier.
--   **Entrées** :
-    -   `folder` : Chemin du dossier à analyser.
-    -   `recursive` : Inclure les sous-dossiers.
-    -   `csv_column` : Index de la colonne à extraire des CSV (-1 pour la ligne entière).
-    -   `deduplicate`, `skip_empty`... : Options de nettoyage.
-    -   `save_output`, `save_folder`, `file_name` : Pour enregistrer le fichier fusionné.
--   **Sorties** :
-    -   `merged_text` : Le texte contenant toutes les lignes fusionnées.
-    -   `lines_count` : Le nombre total de lignes après traitement.
-    -   `saved_path` : Le chemin complet du fichier sauvegardé.
+-   **Purpose**: To consolidate multiple files of keywords, styles, or negative prompts into a single text, ready to be used or saved.
+-   **Key Features**:
+    -   Recursive folder reading.
+    -   Powerful cleaning options: remove duplicates, empty lines, etc.
+    -   Advanced CSV support: select a specific column and handle headers.
+    -   Option to save the result to a new file.
+-   **Inputs**:
+    -   `folder`: Path to the folder to analyze.
+    -   `recursive`: Include subfolders.
+    -   `csv_column`: Index of the column to extract from CSVs (-1 for the entire line).
+    -   `deduplicate`, `skip_empty`...: Cleaning options.
+    -   `save_output`, `save_folder`, `file_name`: To save the merged file.
+-   **Outputs**:
+    -   `merged_text`: The text containing all merged lines.
+    -   `lines_count`: The total number of lines after processing.
+    -   `saved_path`: The full path of the saved file.
 
 #### 📜 MP • File TXT (Pro)
-Un explorateur de fichiers complet et puissant pour naviguer sur votre disque, filtrer les fichiers et charger le contenu d'un fichier `.txt` ou `.csv`.
+A complete and powerful file explorer to navigate your disk, filter files, and load the content of a `.txt` or `.csv` file.
 
--   **Objectif** : Offrir une expérience de type "explorateur de fichiers" directement dans ComfyUI pour charger du texte, avec des outils de recherche et de tri.
--   **Fonctionnalités Clés** :
-    -   Interface inspirée de navigateurs de fichiers.
-    -   Navigation dans les dossiers (monter/descendre).
-    -   Filtrage par expression régulière (regex) sur les noms de fichiers.
-    -   Tri par nom ou par date de modification.
-    -   Aperçu en double-cliquant, ouverture de l'explorateur système.
--   **Entrées** :
-    -   `directory` : Le dossier de départ (peut être modifié via l'UI).
-    -   `name_regex`, `sort_by`... (cachés) : Pilotés par l'interface graphique.
--   **Sorties** :
-    -   `Txt` : Le contenu texte du fichier sélectionné.
-    -   `file_path` : Le chemin absolu du fichier sélectionné.
+-   **Purpose**: To provide a "file explorer" experience directly within ComfyUI for loading text, with search and sort tools.
+-   **Key Features**:
+    -   File browser-inspired interface.
+    -   Folder navigation (up/down).
+    -   Filter by regular expression (regex) on filenames.
+    -   Sort by name or modification date.
+    -   Preview on double-click, open in the system's file explorer.
+-   **Inputs**:
+    -   `directory`: The starting folder (can be changed via the UI).
+    -   `name_regex`, `sort_by`... (hidden): Controlled by the graphical interface.
+-   **Outputs**:
+    -   `Txt`: The text content of the selected file.
+    -   `file_path`: The absolute path of the selected file.
 
 ---
-### ✍️ Section 2 : Manipulation de Texte
+### ✍️ Section 2: Text Manipulation
 
-Ces nodes sont votre couteau suisse pour transformer et nettoyer des chaînes de caractères.
+These nodes are your Swiss army knife for transforming and cleaning strings.
 
 #### 🔄 MP • Replace (Simple/Regex)
-Un outil de recherche et remplacement simple mais puissant, avec un support pour les expressions régulières (regex) et les remplacements en masse via JSON.
+A simple yet powerful find-and-replace tool, with support for regular expressions (regex) and bulk replacements via JSON.
 
--   **Objectif** : Effectuer des substitutions de texte, que ce soit pour corriger des erreurs, changer des mots-clés ou appliquer des transformations complexes.
--   **Fonctionnalités Clés** :
-    -   Mode `simple` : Remplacement de texte littéral.
-    -   Mode `regex` : Utilise des expressions régulières pour des remplacements avancés.
-    -   Contrôle de la portée (`all` ou `first` occurrence).
-    -   Options de sensibilité à la casse, `multiline` et `dotall` pour les regex.
-    -   Mode `table_json` pour appliquer une série de remplacements en une seule fois.
--   **Entrées** :
-    -   `text` : Le texte source.
-    -   `find` / `replace` : Les chaînes à chercher et par quoi remplacer.
-    -   `table_json` : Un objet JSON de type `{"mot_a_trouver": "remplacement", ...}`.
--   **Sorties** :
-    -   `text_out` : Le texte après remplacement.
-    -   `replacements` : Le nombre de substitutions effectuées.
+-   **Purpose**: To perform text substitutions, whether to fix errors, change keywords, or apply complex transformations.
+-   **Key Features**:
+    -   `simple` mode: Literal text replacement.
+    -   `regex` mode: Uses regular expressions for advanced replacements.
+    -   Scope control (`all` or `first` occurrence).
+    -   Options for case sensitivity, `multiline`, and `dotall` for regex.
+    -   `table_json` mode to apply a series of replacements at once.
+-   **Inputs**:
+    -   `text`: The source text.
+    -   `find` / `replace`: The strings to search for and replace with.
+    -   `table_json`: A JSON object like `{"word_to_find": "replacement", ...}`.
+-   **Outputs**:
+    -   `text_out`: The text after replacement.
+    -   `replacements`: The number of substitutions made.
 
 #### 📝 MP • List Editor
-Un pipeline complet pour nettoyer et restructurer des listes de texte (une ligne par item).
+A complete pipeline to clean and restructure text lists (one item per line).
 
--   **Objectif** : Prendre un bloc de texte multiligne, le traiter comme une liste, et appliquer une série d'opérations de nettoyage, de tri et de modification.
--   **Fonctionnalités Clés** :
-    -   Recherche/remplacement en début de pipeline.
-    -   Suppression de préfixes/suffixes par nombre de caractères.
-    -   Ajout de préfixes/suffixes à chaque ligne.
-    -   Nettoyage : suppression des lignes vides et des doublons.
-    -   Tri alphabétique (croissant/décroissant, sensible à la casse ou non).
-    -   Sauvegarde optionnelle du résultat dans un fichier `.txt` ou `.csv`.
--   **Entrées** :
-    -   `text_in` : La liste en entrée (séparée par des sauts de ligne).
-    -   Toutes les options de traitement (find/replace, remove/add, sort, etc.).
--   **Sorties** :
-    -   `text_out` : La liste finale, formatée en une seule chaîne de texte.
-    -   `saved_path` : Le chemin du fichier sauvegardé, si l'option est activée.
+-   **Purpose**: To take a multiline text block, treat it as a list, and apply a series of cleaning, sorting, and modification operations.
+-   **Key Features**:
+    -   Find/replace at the beginning of the pipeline.
+    -   Remove prefixes/suffixes by character count.
+    -   Add prefixes/suffixes to each line.
+    -   Cleaning: remove empty lines and duplicates.
+    -   Alphabetical sorting (ascending/descending, case-sensitive or not).
+    -   Optional saving of the result to a `.txt` or `.csv` file.
+-   **Inputs**:
+    -   `text_in`: The input list (separated by newlines).
+    -   All processing options (find/replace, remove/add, sort, etc.).
+-   **Outputs**:
+    -   `text_out`: The final list, formatted as a single string.
+    -   `saved_path`: The path of the saved file, if the option is enabled.
 
 #### 🔗 MP • Format (Named/Indexed)
-Formate une chaîne de caractères en utilisant des arguments positionnels (`{0}`, `{1}`) et/ou nommés (`{name}`).
+Formats a string using positional (`{0}`, `{1}`) and/or named (`{name}`) arguments.
 
--   **Objectif** : Construire dynamiquement des prompts complexes en insérant des morceaux de texte à des endroits précis d'un modèle.
--   **Fonctionnalités Clés** :
-    -   Supporte à la fois les placeholders comme `{0}` et `{nom}`.
-    -   Jusqu'à 10 entrées positionnelles (`arg_0` à `arg_9`).
-    -   Les arguments nommés peuvent être fournis via une chaîne JSON ou un dictionnaire Python.
-    -   Politiques de gestion des clés manquantes (`strict`, `skip-missing`, `default-empty`).
--   **Entrées** :
-    -   `format_string` : Le modèle de texte (ex: `photo of a {0}, in the style of {artist}`).
-    -   `arg_0`...`arg_9` : Les entrées pour les placeholders positionnels.
-    -   `kwargs_json` : Une chaîne JSON (`{"artist": "Van Gogh"}`) pour les placeholders nommés.
--   **Sorties** :
-    -   `text_out` : Le texte final formaté.
-    -   `diagnostic` : Informations sur le processus de formatage.
+-   **Purpose**: To dynamically build complex prompts by inserting text snippets into specific places in a template.
+-   **Key Features**:
+    -   Supports both placeholders like `{0}` and `{name}`.
+    -   Up to 10 positional inputs (`arg_0` to `arg_9`).
+    -   Named arguments can be provided via a JSON string or a Python dictionary.
+    -   Policies for handling missing keys (`strict`, `skip-missing`, `default-empty`).
+-   **Inputs**:
+    -   `format_string`: The text template (e.g., `photo of a {0}, in the style of {artist}`).
+    -   `arg_0`...`arg_9`: Inputs for positional placeholders.
+    -   `kwargs_json`: A JSON string (`{"artist": "Van Gogh"}`) for named placeholders.
+-   **Outputs**:
+    -   `text_out`: The final formatted text.
+    -   `diagnostic`: Information about the formatting process.
 
 #### 🛀 MP • Wrap (Pairs/Custom)
-Enveloppe un texte (ou chaque ligne d'un texte) avec des paires de caractères prédéfinies ou personnalisées.
+Wraps text (or each line of a text) with predefined or custom character pairs.
 
--   **Objectif** : Ajouter rapidement des parenthèses, des guillemets ou tout autre délimiteur à un texte, utile pour ajuster l'emphase (poids) dans un prompt.
--   **Fonctionnalités Clés** :
-    -   Nombreux styles prédéfinis : `()`, `[]`, `{}`, `""`, `« »`, etc.
-    -   Mode `Custom` pour définir vos propres préfixe et suffixe.
-    -   Option `per_line` pour appliquer l'enveloppement à chaque ligne individuellement.
-    -   Options de nettoyage (`trim_lines`, `skip_if_empty`).
--   **Entrées** :
-    -   `text` : Le texte à envelopper.
-    -   `style` : Le style de paire à utiliser.
-    -   `per_line` : Appliquer à chaque ligne ou au bloc entier.
--   **Sortie** :
-    -   `wrapped_text` : Le texte enveloppé.
+-   **Purpose**: To quickly add parentheses, quotes, or any other delimiters to a text, useful for adjusting emphasis (weight) in a prompt.
+-   **Key Features**:
+    -   Numerous preset styles: `()`, `[]`, `{}`, `""`, `« »`, etc.
+    -   `Custom` mode to define your own prefix and suffix.
+    -   `per_line` option to apply wrapping to each line individually.
+    -   Cleaning options (`trim_lines`, `skip_if_empty`).
+-   **Inputs**:
+    -   `text`: The text to wrap.
+    -   `style`: The pair style to use.
+    -   `per_line`: Apply to each line or the entire block.
+-   **Output**:
+    -   `wrapped_text`: The wrapped text.
 
 #### 📺 MP • Super Show Text
-Un node d'affichage amélioré qui montre un aperçu du texte, peut numéroter les lignes et extraire des sélections spécifiques.
+An enhanced display node that shows a preview of the text, can number lines, and extract specific selections.
 
--   **Objectif** : Visualiser et déboguer facilement le contenu textuel à n'importe quelle étape d'un workflow, et extraire des parties d'une liste pour un traitement ultérieur.
--   **Fonctionnalités Clés** :
-    -   Aperçu du texte directement dans le node.
-    -   Peut lire directement un chemin de fichier `.txt` ou `.csv`.
-    -   Numérotation optionnelle des lignes avec préfixe/suffixe personnalisables.
-    -   Extraction de lignes par numéro ou plage (ex: `1-5`, `8`, `10-12`).
--   **Entrées** :
-    -   `text` : Le texte à afficher (ou un chemin de fichier).
-    -   `show_numbers` : Active la numérotation.
-    -   `line_selector` : La chaîne de sélection de lignes.
--   **Sorties** :
-    -   `text_out` : Le texte complet (numéroté si activé).
-    -   `selected_text` : Uniquement les lignes sélectionnées.
+-   **Purpose**: To easily visualize and debug text content at any stage of a workflow, and to extract parts of a list for further processing.
+-   **Key Features**:
+    -   Text preview directly in the node.
+    -   Can directly read a `.txt` or `.csv` file path.
+    -   Optional line numbering with customizable prefixes/suffixes.
+    -   Extract lines by number or range (e.g., `1-5`, `8`, `10-12`).
+-   **Inputs**:
+    -   `text`: The text to display (or a file path).
+    -   `show_numbers`: Enables line numbering.
+    -   `line_selector`: The line selection string.
+-   **Outputs**:
+    -   `text_out`: The full text (numbered if enabled).
+    -   `selected_text`: Only the selected lines.
 
 ---
-### 🎭 Section 3 : Mixers Dynamiques
+### 🎭 Section 3: Dynamic Mixers
 
-Ces nodes combinent plusieurs entrées de texte en une seule sortie, soit par assemblage, soit par tirage aléatoire.
+These nodes combine multiple text inputs into a single output, either by assembly or by random selection.
 
 #### 🎲 MP • Text Field Mixer
-Combine plusieurs champs de texte en en choisissant un au hasard, pondéré par une "température". Similaire à `Multi List Mixer`, mais avec des champs de texte internes.
+Combines several text fields by randomly choosing one, weighted by a "temperature". Similar to `Multi List Mixer`, but with internal text fields.
 
--   **Objectif** : Créer de la variété en choisissant aléatoirement parmi une liste de prompts ou de fragments de prompt que vous écrivez directement dans le node.
--   **Fonctionnalités Clés** :
-    -   Interface dynamique pour ajouter/supprimer jusqu'à 12 champs de texte.
-    -   Chaque champ a sa propre "température" (poids) de 0 à 10.
-    -   Les champs peuvent être remplacés par des entrées externes (`ext_text_1`...).
-    -   Si une entrée externe est connectée, le champ correspondant est verrouillé ("linked").
--   **Entrées** :
-    -   `config_json` (caché) : Géré par l'UI.
-    -   `seed` : Graine pour le tirage aléatoire.
-    -   `ext_text_1`...`ext_text_12` (optionnel) : Pour connecter du texte depuis d'autres nodes.
--   **Sortie** :
-    -   `mixed_text` : Le champ de texte unique sélectionné.
+-   **Purpose**: To create variety by randomly choosing from a list of prompts or prompt fragments that you write directly in the node.
+-   **Key Features**:
+    -   Dynamic interface to add/remove up to 12 text fields.
+    -   Each field has its own "temperature" (weight) from 0 to 10.
+    -   Fields can be overridden by external inputs (`ext_text_1`...).
+    -   If an external input is connected, the corresponding field is locked ("linked").
+-   **Inputs**:
+    -   `config_json` (hidden): Managed by the UI.
+    -   `seed`: Seed for the random draw.
+    -   `ext_text_1`...`ext_text_12` (optional): To connect text from other nodes.
+-   **Output**:
+    -   `mixed_text`: The single selected text field.
 
 #### 🧩 MP • Text Prompt Mixer
-Assemble de manière déterministe plusieurs champs de texte en utilisant des séparateurs personnalisés entre chaque champ.
+Deterministically assembles multiple text fields using custom separators between each field.
 
--   **Objectif** : Construire un prompt final en concaténant plusieurs parties (ex: sujet, action, style, composition) avec un contrôle total sur les séparateurs.
--   **Fonctionnalités Clés** :
-    -   Interface dynamique pour ajouter/supprimer jusqu'à 12 champs.
-    -   Chaque champ possède son propre séparateur qui sera inséré *après* lui.
-    -   Les champs peuvent être activés/désactivés ou remplacés par des entrées externes.
-    -   Options de nettoyage (`trim`, `skip_empty`).
--   **Entrées** :
-    -   `config_json` (caché) : Géré par l'UI.
-    -   `ext_text_1`...`ext_text_12` (optionnel) : Entrées externes.
--   **Sorties** :
-    -   `prompt_text` : Le texte final assemblé.
-    -   `parts_used` : Le nombre de champs qui ont été utilisés.
+-   **Purpose**: To build a final prompt by concatenating several parts (e.g., subject, action, style, composition) with full control over the separators.
+-   **Key Features**:
+    -   Dynamic interface to add/remove up to 12 fields.
+    -   Each field has its own separator that will be inserted *after* it.
+    -   Fields can be enabled/disabled or overridden by external inputs.
+    -   Cleaning options (`trim`, `skip_empty`).
+-   **Inputs**:
+    -   `config_json` (hidden): Managed by the UI.
+    -   `ext_text_1`...`ext_text_12` (optional): External inputs.
+-   **Outputs**:
+    -   `prompt_text`: The final assembled text.
+    -   `parts_used`: The number of fields that were used.
 
 ---
-### 📑 Section 4 : Boîte à Outils JSON
+### 📑 Section 4: JSON Toolkit
 
-Une suite de nodes puissants pour manipuler des données structurées au format JSON.
+A suite of powerful nodes for manipulating structured data in JSON format.
 
 #### 💅 MP • JSON Format (Prompt)
-Prend une chaîne JSON brute et la formate joliment, la minifie ou l'échappe pour une utilisation sûre dans un prompt.
+Takes a raw JSON string and pretty-prints, minifies, or escapes it for safe use in a prompt.
 
--   **Objectif** : Nettoyer ou préparer des données JSON pour qu'elles soient lisibles par un humain ou interprétables par un modèle de langage (LLM).
--   **Fonctionnalités Clés** :
-    -   Analyseur tolérant (accepte les dictionnaires Python).
-    -   Options de formatage : `pretty` (indenté), `sort_keys`, `compact_one_line`.
-    -   Options d'échappement pour les prompts (`escape_newlines`, `escape_quotes`).
-    -   Peut envelopper le résultat dans un bloc de code Markdown (```json...```).
--   **Entrée** :
-    -   `json_in` : La chaîne JSON ou dictionnaire Python.
--   **Sortie** :
-    -   `json_out` : Le JSON formaté.
+-   **Purpose**: To clean or prepare JSON data to be human-readable or interpretable by a language model (LLM).
+-   **Key Features**:
+    -   Tolerant parser (accepts Python dictionaries).
+    -   Formatting options: `pretty` (indented), `sort_keys`, `compact_one_line`.
+    -   Escaping options for prompts (`escape_newlines`, `escape_quotes`).
+    -   Can wrap the result in a Markdown code block (```json...```).
+-   **Input**:
+    -   `json_in`: The JSON string or Python dictionary.
+-   **Output**:
+    -   `json_out`: The formatted JSON.
 
 #### 🤝 MP • JSON Merge (Deep)
-Fusionne en profondeur (deep merge) de 2 à 5 objets JSON en un seul.
+Deep merges 2 to 5 JSON objects into one.
 
--   **Objectif** : Combiner plusieurs configurations ou structures de données. Par exemple, fusionner un JSON de base avec un JSON de patch.
--   **Fonctionnalités Clés** :
-    -   Fusion récursive des dictionnaires.
-    -   Politiques de fusion pour les listes : `replace` (remplacer), `concat` (concaténer), `unique` (concaténer en supprimant les doublons).
-    -   Option pour supprimer les clés avec des valeurs `null` du résultat final.
--   **Entrées** :
-    -   `json_1`...`json_5` : Les chaînes JSON à fusionner.
--   **Sortie** :
-    -   `json_merged` : L'objet JSON résultant de la fusion.
+-   **Purpose**: To combine multiple configurations or data structures. For example, merging a base JSON with a patch JSON.
+-   **Key Features**:
+    -   Recursive merging of dictionaries.
+    -   Merge policies for arrays: `replace`, `concat`, `unique` (concatenate and remove duplicates).
+    -   Option to remove keys with `null` values from the final result.
+-   **Inputs**:
+    -   `json_1`...`json_5`: The JSON strings to merge.
+-   **Output**:
+    -   `json_merged`: The resulting merged JSON object.
 
 #### 👉 MP • JSON Pick (Paths → Text)
-Extrait une ou plusieurs valeurs d'un objet JSON en utilisant des chemins d'accès (ex: `user.name`, `items[0].price`).
+Extracts one or more values from a JSON object using access paths (e.g., `user.name`, `items[0].price`).
 
--   **Objectif** : Récupérer des informations spécifiques d'une structure de données complexe pour les utiliser comme texte dans un prompt.
--   **Fonctionnalités Clés** :
-    -   Syntaxe de chemin simple et intuitive (`key.subkey[index]`).
-    -   Extraction de plusieurs valeurs en une seule fois (un chemin par ligne).
-    -   Les valeurs extraites sont jointes avec un séparateur personnalisable.
--   **Entrées** :
-    -   `json_in` : L'objet JSON source.
-    -   `paths` : La liste des chemins à extraire, un par ligne.
-    -   `joiner` : Le séparateur à utiliser entre les valeurs trouvées.
--   **Sorties** :
-    -   `picked_text` : Le texte contenant les valeurs extraites.
-    -   `hits_count` : Le nombre de chemins qui ont retourné une valeur.
+-   **Purpose**: To retrieve specific information from a complex data structure to use as text in a prompt.
+-   **Key Features**:
+    -   Simple and intuitive path syntax (`key.subkey[index]`).
+    -   Extract multiple values at once (one path per line).
+    -   Extracted values are joined with a customizable separator.
+-   **Inputs**:
+    -   `json_in`: The source JSON object.
+    -   `paths`: The list of paths to extract, one per line.
+    -   `joiner`: The separator to use between the found values.
+-   **Outputs**:
+    -   `picked_text`: The text containing the extracted values.
+    -   `hits_count`: The number of paths that returned a value.
 
 #### ↔️ MP • JSON ↔︎ KV Lines
-Convertit un objet JSON en une liste de lignes `clé: valeur` et vice-versa.
+Converts a JSON object into a list of `key: value` lines and vice versa.
 
--   **Objectif** : Faciliter l'édition de données structurées dans un format texte simple ou convertir des fichiers de configuration de type `.ini` en JSON.
--   **Fonctionnalités Clés** :
-    -   **KV to JSON** : Parse des lignes `clé: valeur`, supporte les chemins imbriqués (`a.b[0]: val`), les commentaires et la conversion de types (booléens, nombres).
-    -   **JSON to KV** : Aplatit une structure JSON en une liste de lignes `chemin: valeur`.
--   **Entrées/Options** :
-    -   `mode` : `kv_to_json` ou `json_to_kv`.
-    -   De nombreuses options pour personnaliser les séparateurs, la gestion des commentaires, etc.
--   **Sortie** :
-    -   `text_out` : Le résultat de la conversion.
+-   **Purpose**: To facilitate editing of structured data in a simple text format or to convert `.ini`-style configuration files to JSON.
+-   **Key Features**:
+    -   **KV to JSON**: Parses `key: value` lines, supports nested paths (`a.b[0]: val`), comments, and type conversion (booleans, numbers).
+    -   **JSON to KV**: Flattens a JSON structure into a list of `path: value` lines.
+-   **Inputs/Options**:
+    -   `mode`: `kv_to_json` or `json_to_kv`.
+    -   Many options to customize separators, comment handling, etc.
+-   **Output**:
+    -   `text_out`: The result of the conversion.
 
 ---
 
 <div align="center">
 
-<h3>🌟 <strong>Montrez Votre Soutien</strong></h3>
+<h3>🌟 <strong>Show Your Support</strong></h3>
 
-<p>Si ce projet vous a aidé, n'hésitez pas à lui donner une ⭐ sur GitHub !</p>
+<p>If this project helped you, please consider giving it a ⭐ on GitHub!</p>
 
-<p><strong>Fait avec ❤️ pour la communauté ComfyUI</strong></p>
+<p><strong>Made with ❤️ for the ComfyUI community</strong></p>
 
-<p><strong>par Orion4D</strong></p>
+<p><strong>by Orion4D</strong></p>
 
 <a href="https://ko-fi.com/orion4d">
 <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" height="41" width="174">
