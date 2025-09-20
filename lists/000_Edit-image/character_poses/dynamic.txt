@@ -17,45 +17,24 @@ Change the pose to a rolling pose, body in sideways motion.
 Change the pose to a crawling stance, hands and knees on the ground.
 Change the pose to a balancing pose, arms spread wide.
 Change the pose to a surfing pose, knees bent, arms extended.
-
 Change the pose to a skating stance, one leg extended back.
-
 Change the pose to a jumping kick pose, one leg raised high.
-
 Change the pose to a spinning kick pose, torso twisted.
-
 Change the pose to a mid-air punch pose, fist extended.
-
 Change the pose to a ground punch pose, fist striking the floor.
-
 Change the pose to a superhero landing pose, one knee down, fist on ground.
-
 Change the pose to a running leap pose, arms reaching forward.
-
 Change the pose to a sprint mid-motion pose, hair flying back.
-
 Change the pose to a wall-running pose, one foot pressed to the wall.
-
 Change the pose to a rope-climbing pose, arms reaching up.
-
 Change the pose to a high jump pose, arms raised above the head.
-
 Change the pose to a sliding into cover pose, one knee bent.
-
 Change the pose to a dodging backwards pose, torso arched away.
-
 Change the pose to a forward lunge pose, arms extended.
-
 Change the pose to a high spin jump pose, legs apart mid-air.
-
 Change the pose to a gliding pose, arms out like wings.
-
 Change the pose to a diving pose, body streamlined downward.
-
 Change the pose to a swimming freestyle pose.
-
 Change the pose to a swimming breaststroke pose.
-
 Change the pose to a swimming butterfly pose.
-
 Change the pose to a sprinting pose with maximum effort, teeth gritted.
