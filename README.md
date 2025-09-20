@@ -306,6 +306,13 @@ Converts a JSON object into a list of `key: value` lines and vice versa.
 -   **Output**:
     -   `text_out`: The result of the conversion.
 
+## Dependencies
+
+This node suite has been designed to be as easy to install as possible.
+
+✅ **Zero external dependencies!**
+
+You do not need to install any additional Python packages using `pip`. All functionalities rely either on Python's standard library or on components already included with ComfyUI. This means the installation is truly as simple as cloning the repository.
 ---
 
 <div align="center">
