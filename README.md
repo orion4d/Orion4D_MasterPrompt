@@ -314,7 +314,7 @@ This node suite has been designed to be as easy to install as possible.
 
 You do not need to install any additional Python packages using `pip`. All functionalities rely either on Python's standard library or on components already included with ComfyUI. This means the installation is truly as simple as cloning the repository.
 
-*Note: I am not a volunteer for training and to carry out professional workflows with these nodes.
+<p> Note: I am not a volunteer for training and to carry out professional workflows with these nodes.
 
 ---
 
