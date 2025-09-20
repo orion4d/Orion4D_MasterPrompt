@@ -1,0 +1,291 @@
+Alla Prima
+Direct Painting
+Wet-into-Wet
+Wet-into-Dry
+Layered Indirect Painting
+Glazing Technique
+Velatura Glaze
+Scumbling
+Impasto
+Knife Impasto
+Palette Knife Painting
+Sgraffito in Oil
+Wipe-Out Technique
+Imprimatura Ground
+Grisaille Underpainting
+Open Grisaille
+Monochrome Grisaille
+Verdaccio Underpainting
+Dead Layer (Dead Color)
+Ebauche Underpainting
+Bistre Underpainting
+Sfumato in Oil
+Chiaroscuro
+Tenebrism
+High-Polish Finish
+Licked-Surface Finish
+Academic Finish
+Painterly Brushwork
+Loose Painterly Style
+Broken Color Technique
+Soft-Edge Blending
+Hard-Edge Oil
+Feathered Strokes
+Dry Brush Oil
+Stippling in Oil
+Hatching with Brush
+Rag-Wipe Texture
+Dragged Brush Texture
+Scraped Back with Knife
+Craquelure Effect Look
+Matte Finish Oil
+Gloss Varnish Look
+Satin Varnish Look
+Limited Palette Oil
+Earth Palette Oil
+Zorn Palette Oil
+High-Key Oil
+Low-Key Oil
+Tonalist Oil
+Atmospheric Realism
+Luminist Oil
+Colorist Oil
+Venetian Colorism
+Florentine Disegno Emphasis
+Dutch Golden Age Realism
+Flemish Baroque Glazing
+Spanish Baroque Naturalism
+Tenebrist Baroque
+Rococo Decorative Oil
+Neoclassical Academic Oil
+Romanticism Oil
+Academic Salon Style
+Realism Oil Painting
+Naturalism Oil Painting
+Pre-Raphaelite Oil
+Aesthetic Movement Oil
+Symbolist Oil Painting
+Impressionist Oils
+Post-Impressionist Oils
+Divisionism in Oil
+Pointillist Oil
+Nabis Decorative Oil
+Fauvist Oils
+Expressionist Oils
+Die Brücke Oil Style
+Der Blaue Reiter Oil
+Cubist Oils
+Synthetic Cubism Oil
+Futurist Oils
+Metaphysical Painting
+Surrealist Oils
+Magic Realist Oil
+New Objectivity Oils
+Social Realist Oil
+Soviet Socialist Realism
+American Regionalism Oil
+Precisionist Oil
+Ashcan School Oils
+Hudson River School Oils
+Barbizon School Oils
+Macchiaioli Oils
+Heidelberg School Oils
+Scottish Colourists Oils
+School of Paris Oil
+Lyrical Abstraction (Oil)
+Art Informel (Oil)
+Tachisme (Oil)
+Abstract Expressionist Oil
+Action Painting (Oil)
+Gestural Abstraction Oil
+Color Field Oil
+Hard-Edge Abstraction Oil
+Geometric Abstraction Oil
+Minimalist Monochrome Oil
+White-on-White Oil
+Black Monochrome Oil
+Op Art in Oil
+Pop Art Oil
+Lowbrow Pop Surrealism Oil
+Neo-Expressionist Oil
+Neo-Figurative Oil
+Neo-Baroque Oil
+Neo-Rococo Oil
+Neo-Classicist Oil
+Neo-Romantic Oil
+Neo-Byzantine Icon Look
+Byzantine Icon Oil Look
+Medieval Panel Painting
+Early Renaissance Oil Technique
+High Renaissance Oil Painting
+Venetian School Oil
+Caravaggisti Tenebrism
+Grand Manner Portrait
+Court Portrait Oil
+Classic Portrait Oil
+Alla Prima Portrait
+Palette Knife Portrait
+Modernist Portrait Oil
+Expressionist Portrait Oil
+Hyperrealist Oil Painting
+Photorealist Oil Painting
+Trompe-l’œil Oil
+Illusionistic Ceiling Oil
+Quadratura Look in Oil
+Decorative Mural Oil
+Vanitas Still Life Oil
+Dutch Still Life Oil
+Floral Still Life Oil
+Marine Painting Oil
+Cityscape Oil
+Nocturne Oil
+Interior Genre Scene Oil
+History Painting Oil
+Mythological Oil
+Religious Icon Oil
+Gilded Icon Oil
+Oil with Gold Leaf
+Oil with Silver Leaf
+Oil and Cold Wax
+Cold Wax Medium Oil
+Alkyd Fast-Dry Oil
+Solvent-Free Oil Look
+Water-Mixable Oil Look
+Egg-Oil Emulsion (Tempera Grassa)
+Tempera Grassa Hybrid
+Oil on Linen Canvas
+Oil on Cotton Canvas
+Oil on Primed Panel
+Oil on Gessoed Panel
+Oil on Copper Plate
+Oil on Paper
+Stained Ground Oil Look
+Subtle Velatura Finish
+Glaze-Rich Luminosity
+Thick Impasto Ridges
+Knife-Scraped Planes
+Masking and Hard Edges (Oil)
+Stencil Texture in Oil
+Spatter Oil Effect
+Drip Oil Effect
+Pouring Oil with Medium
+Marbled Oil Effect
+Smoke Glaze Effect
+Atmospheric Perspective Oil
+Backlit Glow Oil
+Candlelight Tenebrism
+Rembrandt Lighting Portrait
+Golden Hour Oil Palette
+Moonlight Nocturne Oil
+Triangular Composition Oil
+Baroque Diagonal Composition
+Centered Iconic Composition
+Frieze-Like Composition Oil
+Serial Polyptych Oil
+Lost-and-Found Edges (Oil)
+Edge Control Oil
+Thick-and-Thin Paint Handling
+Broken Contour Oil
+Color Block Portrait Oil
+Painterly Realism Oil
+Academic Realism Oil
+Atmospheric Realism Oil
+Decorative Flat Oil
+Graphic Oil Poster Look
+Textural Abstraction Oil
+Geometric Abstraction Oil
+Organic Abstraction Oil
+Figurative Abstraction Oil
+Mythic Symbolist Oil
+Psychological Realism Oil
+Magic Noir Oil
+Gritty Urban Oil
+Industrial Palette Oil
+Earthy Rustic Oil
+Pastel-Toned Oil
+Jewel-Tone Oil
+High-Chroma Oil
+Muted Neutral Oil
+Mineral Palette Oil
+Patina Texture Oil
+Rust Texture Oil
+Marble Dust Oil Texture
+Sand-Infused Oil Texture
+Oil with Thickening Medium
+Oil with Stand Oil Sheen
+Walnut Oil Finish
+Linseed-Rich Finish
+Poppy Oil Finish
+Wax Bloom Look in Oil
+Varnish Amber Glow
+Antiqued Varnish Look
+Aged Craquelure Look
+Icon Panel Crackle Look
+Gesso Texture Telegraphed
+Tooth-and-Drag Brush Texture
+Knife Ridge Highlighting
+Glinting Glaze Highlights
+Optical Mix Glaze Layers
+Subtractive Wipe Highlights
+Reserved Whites in Oil
+Subdued Grisaille + Glaze
+Verdaccio Portrait Method
+Dead-Color Figure Layer
+Baroque Portrait Finish
+Salon-Style Finish
+Ingresque Finish
+Courbet-Style Realism Oil
+Manet-Style Modern Oil
+Whistler Nocturne Oil
+Sargent Brushwork Oil
+Sorolla Sunlit Oil
+Bonnard Colorist Oil
+Matisse Fauvist Oil
+De Kooning Gestural Oil
+Rothko Color Field Oil
+Diebenkorn Ocean Park Oil
+Hockney Clean-Edge Oil
+New Leipzig School Oil
+Contemporary Figurative Oil
+Contemporary Landscape Oil
+Contemporary Still Life Oil
+Knife Cityscape Oil
+Plein-Air Oil Study
+Studio Academic Oil
+Large-Scale Gallery Oil
+Small Cabinet Oil
+Panel Miniature Oil
+Salon Hang Oil Look
+Museum Varnish Sheen
+Soft Bloom Glaze Look
+High Contrast Chiaroscuro Oil
+Soft Tonalist Envelope
+Graphic Flat Planes Oil
+Decorative Patterned Oil
+Ornamental Rococo Oil
+Severe Neoclassical Oil
+Storm-Driven Romantic Oil
+Sunlit Impressionist Oil
+Structured Post-Impressionist Oil
+Dreamlike Symbolist Oil
+Surreal Dreamscape Oil
+Metaphysical Piazza Oil
+Mythic Allegory Oil
+Iconic Devotional Oil
+Narrative History Oil
+Genre Narrative Oil
+Contemporary Pop Icon Oil
+Street-Inspired Oil
+Graffiti-Inflected Oil
+Graphic Novel Oil Look
+Posterized Oil Look
+Duotone Oil Look
+Monochrome Sepia Oil
+Blue Period Oil Look
+Greenish Verdaccio Cast
+Warm Earthcast Oil Look
+Cool Silvery Palette Oil
+Iridescent Oil Glaze Look
+Pearlescent Oil Sheen
+Metallic Leaf Accents in Oil
+Glittered Oil Accent Look

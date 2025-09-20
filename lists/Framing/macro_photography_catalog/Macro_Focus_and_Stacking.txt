@@ -1,0 +1,20 @@
+Single-Shot Focus at Critical Plane
+Manual Focus Peaking for Macro
+Rocking Technique (body sway)
+Rail-Based Focus Bracketing
+In-Camera Focus Bracketing Sequence
+Helicon Remote / Tethered Bracketing
+Capture One / Lightroom Tether for Steps
+Number of Frames vs DOF
+Step Size Calculation by Magnification
+Stacking Strategy: Foreground to Background
+Stacking Strategy: Middle Outwards
+Focus Breathing Compensation in Stacks
+Diffraction vs Stack Depth Trade-off
+Helicon Focus Method A/B/C
+Zerene Stacker PMax vs DMap
+Retouching Halos after Stacking
+Alignment of Handheld Stacks
+Avoiding Subject Movement (wind control)
+Micro-Adjust Rails for Micron Steps
+Deep Stacks (hundreds of frames)

@@ -1,0 +1,15 @@
+Rembrandt Light Head-and-Shoulders
+Loop Light Classic Headshot
+Butterfly/Paramount Light Beauty Close-Up
+Clamshell Beauty (key + fill from below)
+Split Light Dramatic Close-Up
+Short Lighting for Slimming Effect
+Broad Lighting for Feature Softening
+Backlight Hair Light with Rim Edge
+Window Light Portrait (soft falloff)
+Hard Light Graphic Portrait (specular shadows)
+Low-Key Portrait with Negative Fill
+High-Key Portrait with Seamless Background
+Silhouette Rim-Lit Profile
+Gobo Patterned Shadow Portrait
+Prism/Refraction Light Framing on Face

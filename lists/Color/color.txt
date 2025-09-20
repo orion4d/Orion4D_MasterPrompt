@@ -1,0 +1,430 @@
+Amber  
+Amber Glow  
+Amber Gold  
+Amber Yellow  
+Amethyst  
+Amethyst Glow  
+Apple Green  
+Apricot  
+Aquamarine  
+Army Green  
+Aurora Blue  
+Aurora Cyan  
+Aurora Green  
+Aurora Indigo  
+Aurora Magenta  
+Aurora Orange  
+Aurora Pink  
+Aurora Red  
+Aurora Violet  
+Aurora Yellow  
+Azure  
+Azure Glow  
+Baby Blue  
+Baby Pink  
+Banana  
+Basil Green  
+Blackberry  
+Blood Red  
+Blush Pink  
+Boysenberry  
+Brick Orange  
+Brick Red  
+Bright Amber  
+Bright Blue  
+Bright Cyan  
+Bright Cyan  
+Bright Green  
+Bright Lime  
+Bright Orange  
+Bright Pink  
+Bright Red  
+Bright Violet  
+Bright Violet  
+Bright Yellow  
+Bright Yellow  
+Bubblegum Pink  
+Burgundy  
+Burnt Red  
+Buttercup  
+Butterscotch  
+Byzantium  
+Cactus Green  
+Camouflage Green  
+Canary  
+Candy Apple Red  
+Capri  
+Carmine  
+Carnation  
+Carrot Orange  
+Celestial Blue  
+Celestial Cyan  
+Celestial Green  
+Celestial Orange  
+Celestial Red  
+Celestial Violet
+Celestial Yellow  
+Cerulean  
+Chalk Violet  
+Chartreuse Yellow  
+Cherry  
+Chestnut  
+Citrine  
+Citrine Glow  
+Claret  
+Cloud Blue  
+Cloud Violet  
+Clover Green  
+Cobalt Blue  
+Cool Blue  
+Cool Cyan  
+Cool Green  
+Cool Lilac  
+Cool Orange  
+Cool Red  
+Cool Violet  
+Cool Yellow  
+Copper Red  
+Coral Orange  
+Coral Pink  
+Coral Red  
+Cornflower  
+Cosmic Purple  
+Cosmos Violet  
+Crimson  
+Crimson Glow  
+Daffodil  
+Dandelion  
+Dark Indigo  
+Dark Magenta  
+Dark Plum  
+Dark Purple  
+Dark Red  
+Deep Blue  
+Deep Blue  
+Deep Cyan  
+Deep Green  
+Deep Orange  
+Deep Orchid  
+Deep Pink  
+Deep Red  
+Deep Space Violet  
+Deep Violet  
+Deep Violet  
+Deep Yellow  
+Denim Blue  
+Dodger Blue  
+Dusk Violet  
+Dusty Rose  
+Dusty Violet  
+Earth Blue  
+Earth Cyan  
+Earth Green  
+Earth Orange  
+Earth Red  
+Earth Violet  
+Earth Yellow  
+Eggplant  
+Egyptian Blue  
+Electric Cyan  
+Electric Lime  
+Electric Violet  
+Emerald  
+Emerald Glow  
+Evening Violet  
+Fern  
+Fire Blue  
+Fire Green  
+Fire Magenta  
+Fire Orange  
+Fire Red  
+Fire Red  
+Fire Violet  
+Fire Yellow  
+Flame Orange  
+Flamingo Pink  
+Flax  
+Fluorescent Blue  
+Fluorescent Cyan  
+Fluorescent Green  
+Fluorescent Orange  
+Fluorescent Pink  
+Fluorescent Red  
+Fluorescent Violet  
+Fluorescent Yellow  
+Forest  
+Fresh Green  
+Frosted Lavender  
+Fuchsia  
+Fuchsia Glow  
+Galactic Blue  
+Galactic Cyan  
+Galactic Green  
+Galactic Orange  
+Galactic Red  
+Galactic Violet  
+Galactic Yellow  
+Galaxy Violet  
+Garnet  
+Golden Glow  
+Golden Glow  
+Golden Orange  
+Goldenrod  
+Golden Yellow  
+Grape  
+Grass Green  
+Green Apple  
+Harvest Gold  
+Heather  
+Heliotrope  
+Honey Orange  
+Hot Pink  
+Ice Blue  
+Icy Violet  
+Imperial Purple  
+Indigo  
+Infrared Blue  
+Infrared Green  
+Infrared Orange  
+Infrared Red  
+Infrared Violet  
+Infrared Yellow  
+International Orange  
+Iris  
+Jade  
+Jewel Blue  
+Jewel Cyan  
+Jewel Green  
+Jewel Orange  
+Jewel Red  
+Jewel Violet  
+Jewel Yellow  
+Kelly Green  
+Lagoon  
+Lavender Blue  
+Leaf Green  
+Lemon Yellow  
+Light Blue  
+Light Blue  
+Light Cyan  
+Light Green  
+Light Mauve  
+Light Orange  
+Light Orange  
+Light Pink  
+Light Red  
+Light Violet  
+Light Violet  
+Light Yellow  
+Lilac  
+Lime  
+Lime Yellow  
+Magenta  
+Magenta Glow  
+Mahogany  
+Maize  
+Mandarin  
+Mango  
+Maroon  
+Mauve  
+Midnight Blue  
+Midnight Glow  
+Mint  
+Moon Violet  
+Moss  
+Mulberry  
+Mustard  
+Mystic Blue  
+Mystic Cyan  
+Mystic Green  
+Mystic Orange  
+Mystic Red  
+Mystic Violet  
+Mystic Violet  
+Mystic Yellow  
+Natural Blue  
+Natural Cyan  
+Natural Green  
+Natural Orange  
+Natural Red  
+Natural Violet  
+Natural Yellow  
+Navy  
+Nebula Violet  
+Neon Blue  
+Neon Cyan  
+Neon Green  
+Neon Green  
+Neon Orange  
+Neon Pink  
+Neon Pink  
+Neon Purple  
+Neon Red  
+Neon Violet  
+Neon Yellow  
+Night Violet  
+Old Rose  
+Olive  
+Orchid  
+Oxford Blue  
+Pacific Blue  
+Pale Gold  
+Pale Lavender  
+Pale Rose  
+Papaya  
+Pastel Blue  
+Pastel Cyan  
+Pastel Green  
+Pastel Orange  
+Pastel Pink  
+Pastel Pink  
+Pastel Red  
+Pastel Violet  
+Pastel Yellow  
+Peach  
+Peach Pink  
+Pear Green  
+Periwinkle  
+Persian Red  
+Persimmon  
+Pine Green  
+Pistachio  
+Poppy Red  
+Powder Blue  
+Powder Pink  
+Precious Blue  
+Precious Cyan  
+Precious Green  
+Precious Orange  
+Precious Red  
+Precious Violet  
+Precious Yellow  
+Process Cyan  
+Prussian Blue  
+Pumpkin  
+Purple Taupe  
+Radiant Blue  
+Radiant Cyan  
+Radiant Green  
+Radiant Indigo  
+Radiant Orange  
+Radiant Red  
+Radiant Violet  
+Radiant Yellow  
+Rainbow Blue  
+Rainbow Cyan  
+Rainbow Green  
+Rainbow Indigo  
+Rainbow Orange  
+Rainbow Red  
+Rainbow Violet  
+Rainbow Yellow  
+Red Ochre  
+Redwood  
+Robin Egg  
+Rose Glow  
+Rose Pink  
+Rose Red  
+Royal Blue  
+Royal Purple  
+Ruby  
+Ruby Glow  
+Rust Red  
+Safety Orange  
+Saffron  
+Sage  
+Salmon Orange  
+Salmon Pink  
+Sangria  
+Sapphire  
+Sapphire Glow  
+Scarlet  
+Scarlet Glow  
+School Bus Yellow  
+Sea Green  
+Seaweed Green  
+Shadow Purple  
+Shamrock  
+Shocking Pink  
+Sky Aqua  
+Sky Blue  
+Soft Apricot  
+Soft Blue  
+Soft Cyan  
+Soft Green  
+Soft Lilac  
+Soft Orange  
+Soft Pink  
+Soft Red  
+Soft Violet  
+Soft Yellow  
+Space Blue  
+Spring Bud  
+Stellar Violet  
+Sunflower  
+Sunny Yellow  
+Sunrise Blue  
+Sunrise Cyan  
+Sunrise Green  
+Sunrise Orange  
+Sunrise Pink  
+Sunrise Red  
+Sunrise Violet  
+Sunrise Yellow  
+Sunset Blue  
+Sunset Cyan  
+Sunset Glow  
+Sunset Gold  
+Sunset Green  
+Sunset Orange  
+Sunset Orange  
+Sunset Pink  
+Sunset Red  
+Sunset Red  
+Sunset Violet  
+Sunset Yellow  
+Supernova Violet  
+Tangerine  
+Tangerine Glow  
+Teal Green  
+Terra Cotta  
+Thistle  
+Tiffany Blue  
+Tiger Orange  
+Tomato  
+Topaz  
+True Blue  
+True Blue  
+True Cyan  
+True Green  
+True Orange  
+True Red  
+True Violet  
+True Yellow  
+Turquoise  
+Turquoise Glow  
+Tuscan Red  
+Twilight Glow  
+Twilight Violet  
+Tyrian Purple  
+Ultramarine  
+Ultra Violet  
+Verdigris  
+Vermilion  
+Vermilion Glow  
+Violet  
+Vivid Orange Red  
+Vivid Violet  
+Warm Blue  
+Warm Cyan  
+Warm Green  
+Warm Orange  
+Warm Red  
+Warm Violet  
+Warm Yellow  
+Watermelon Pink  
+Wine Purple  
+Wine Red  
+Wisteria  
+Yellow Ochre  
+Zinc Yellow  

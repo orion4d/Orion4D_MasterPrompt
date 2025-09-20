@@ -1,0 +1,14 @@
+Ultra-Wide Perspective (exaggerated depth)
+Wide-Angle Perspective
+Normal Perspective
+Telephoto Compression
+Super-Telephoto Compression
+Macro Perspective
+Fisheye Perspective
+Tilt-Shift / Perspective Control
+Anamorphic-Look Framing
+Orthographic-Look (minimal convergence)
+One-Point Perspective
+Two-Point Perspective
+Three-Point Perspective
+Forced Perspective

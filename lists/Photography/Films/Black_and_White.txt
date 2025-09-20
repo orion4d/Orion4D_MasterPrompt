@@ -1,0 +1,65 @@
+Kodak — Tri‑X 400 (400TX) — ISO 400
+Kodak — T‑MAX 100 (TMX) — ISO 100
+Kodak — T‑MAX 400 (TMY‑2) — ISO 400
+Kodak — T‑MAX P3200 (TMZ) — ISO 3200
+Kodak — Plus‑X — ISO 125 (discontinued)
+Kodak — Panatomic‑X — ISO 32 (discontinued)
+Kodak — BW400CN — ISO 400 (chromogenic C‑41, discontinued)
+Kodak — Double‑X (5222) — ISO 250 (cine B&W)
+Ilford — HP5 Plus — ISO 400
+Ilford — FP4 Plus — ISO 125
+Ilford — Pan F Plus — ISO 50
+Ilford — Delta 100 — ISO 100
+Ilford — Delta 400 — ISO 400
+Ilford — Delta 3200 — ISO 3200
+Ilford — XP2 Super — ISO 400 (chromogenic C‑41)
+Ilford — Ortho Plus — ISO 80 (orthopanchromatic)
+Ilford — SFX 200 — ISO 200 (extended red sensitivity)
+Kentmere — 100 — ISO 100
+Kentmere — 400 — ISO 400
+ADOX — CMS 20 II — ISO 20 (microfilm)
+ADOX — CHS 100 II — ISO 100
+ADOX — Silvermax 100 — ISO 100
+ADOX — HR‑50 — ISO 50
+ADOX — Scala 160 — ISO 160 (B&W reversal)
+ADOX — ORTHO 25 II — ISO 25 (orthographic)
+Foma — Fomapan 100 Classic — ISO 100
+Foma — Fomapan 200 Creative — ISO 200
+Foma — Fomapan 400 Action — ISO 400
+Foma — Retropan 320 Soft — ISO 320
+Foma — Fomapan R100 — ISO 100 (B&W reversal)
+ORWO — UN54 — ISO 100
+ORWO — N74/N75 — ISO 400
+ORWO — NP100 — ISO 100
+Rollei — RPX 25 — ISO 25
+Rollei — RPX 100 — ISO 100
+Rollei — RPX 400 — ISO 400
+Rollei — Retro 80S — ISO 80 (near‑IR)
+Rollei — Retro 400S — ISO 400
+Rollei — Superpan 200 — ISO 200
+Rollei — Ortho 25 — ISO 25
+Rollei — Infrared 400 — ISO 400 (IR)
+Bergger — Pancro 400 — ISO 400
+Bergger — BRF 400 Plus — ISO 400
+Ferrania — P30 — ISO 80
+CineStill — BwXX — ISO 250 (Eastman 5222)
+JCH — StreetPan 400 — ISO 400
+Kosmo Foto — Mono 100 — ISO 100
+Kosmo Foto — Agent Shadow 400 — ISO 400
+CatLABS — X Film 80 — ISO 80
+CatLABS — X Film 320 — ISO 320
+Shanghai — GP3 100 — ISO 100
+Lucky — SHD 100 — ISO 100 (legacy)
+AgfaPhoto — APX 100 — ISO 100
+AgfaPhoto — APX 400 — ISO 400
+Arista EDU Ultra — 100 — ISO 100 (Foma origin)
+Arista EDU Ultra — 200 — ISO 200 (Foma origin)
+Arista EDU Ultra — 400 — ISO 400 (Foma origin)
+Ultrafine — Extreme 100 — ISO 100 (availability varies)
+Ultrafine — Extreme 400 — ISO 400 (availability varies)
+Lomography — Lady Grey 400 — ISO 400
+Lomography — Earl Grey 100 — ISO 100
+Lomography — Berlin Kino 400 — ISO 400
+Lomography — Potsdam Kino 100 — ISO 100
+Lomography — Babylon Kino 13 — ISO 13
+Lomography — Fantôme Kino 8 — ISO 8

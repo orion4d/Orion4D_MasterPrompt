@@ -1,0 +1,852 @@
+15-Minute City
+3D-Printed Concrete
+3D-Printed Earthen
+Achaemenid Palatial
+Acoustic Architecture
+Activity-Based Office
+Adaptive Reuse Design
+Adaptive Streetscapes
+Adriatic Seafronts
+Aerial Gondola Stations
+Agora Squares
+Agritecture
+Agro-Urban Housing
+AI Compute Campuses
+Airport Architecture
+Alley House (ADU)
+Alpine Modern
+Alsatian Half-Timber
+American Foursquare
+American Renaissance
+Amphitheaters
+Amphitheatre Design
+Andalusian Patios
+Andalusian Vernacular
+Aquarium Architecture
+Aqueduct Architecture
+Arboretum Facilities
+Arcades
+Arcade Streets
+Arch Bridges
+Archigram Pop Architecture
+Archives Architecture
+Arcology
+Arena Architecture
+AR Galleries
+Art Deco
+Art Deco Parisien
+Art Nouveau
+Art Nouveau Parisien
+Arts and Crafts
+Arts and Crafts Cottage
+Assembly Halls
+Atria
+Atrium House
+Atrium Office
+Austro-Hungarian Eclecticism
+Backyard Cottage (ADU)
+Balinese Architecture
+Balkan Vernacular
+Baltic Functionalism
+Bamboo Architecture
+Banlieue Urbanism
+Barn Conversion
+Baroque Architecture
+Bascule Bridges
+Basilica Architecture
+Basque Etxe
+Basque Farmhouses
+Bastide Towns
+Bastion Forts
+Batak Houses
+Bathhouse (Thermae)
+Bauhaus Style
+Bazaar Architecture
+Beach House
+Beam Bridges
+Beaux-Arts Architecture
+Beaux-Arts Classicism
+Beaux-Arts Eclectic
+Beaux-Arts Revival
+Belgian Art Nouveau
+Bioclimatic Architecture
+Biomimicry in Architecture
+Biophilic Office
+Biotech Facilities
+Black-and-White Houses
+Black Architecture
+Black Box Theaters
+Blobitecture
+BMX Tracks
+Boardwalks
+Botanical Garden Architecture
+Boutique Store Design
+BREEAM Outstanding
+Breton Granite Houses
+Breweries & Distilleries
+Brick Expressionism
+Brick Gothic
+Brick Office
+Bridge Architecture
+Bridge Pavilions
+British Neoclassicism
+Brownfield Regeneration
+Brutalism
+Buddhist Temple Architecture
+Bungalow Style
+Bus Rapid Transit Stations
+Bus Terminal Design
+Butterfly Roofs
+Byzantine Architecture
+Cable-Net Structures
+Cable-Stayed Bridges
+California Bungalow
+Camargue Cabane
+Campus Innovation Hub
+Canadian Chateau
+Canalside Urbanism
+Cantilever Bridges
+Cape Cod
+Caravansarai Streets
+Caravanserai
+Car-Free Districts
+Car-Light Neighborhoods
+Carpenter Gothic
+Carriage House
+Castle Architecture
+Catalan Modernisme
+Cathedral Architecture
+Cave Monasteries
+Celtic Roundhouses
+Chahar Bagh Pavilions
+Chalet
+Channel Islands Vernacular
+Charbagh Axes
+Charentaise Houses
+Châteauesque
+Chinese Imperial Architecture
+Churrigueresque
+Cinemas
+Circular Design
+Circular Hubs
+Circular Timber Towers
+Citadel Architecture
+City Beautiful
+City Hall Architecture
+Clean Room Architecture
+Cliff Dwellings
+Cliff Houses
+Climbing Gym
+Clinic Design
+Cloister Architecture
+Cloud Campuses
+Coach House
+Cob Architecture
+Co-Housing
+Cold Storage Warehouses
+Co-Living Spaces
+Collegiate Gothic
+Colonial Bungalows
+Colonial Revival
+Colonnaded Streets
+Colonnade Typologies
+Community Centers
+Community Land Trust Housing
+Company Towns
+Complete Streets
+Composter Facilities
+Computational Architecture
+Concert Hall Design
+Conference Venues
+Conservatories
+Constructivist Architecture
+Constructivist Revival
+Consulate Buildings
+Container Architecture
+Contemporary Architecture
+Convention Centers
+Cooperative Housing
+Corbusian Modernism
+Cornish Stone
+Corporate Campus
+Cottage
+Courthouse Architecture
+Courtyard Block
+Courtyard Cooling
+Courtyard House
+Co-working Space Design
+Cradle-to-Cradle Design
+Craftsman Bungalow
+Craftsman Houses
+Creative Clusters
+Creative Garages
+Creole Townhouses
+Critical Regionalism
+Cross-Laminated Timber
+Cruck Frame
+Crypto Mining Farms
+Cultural Centers
+Cultural Quarters
+Cycladic Minimalism
+Cycladic Vernacular
+Cycling Infrastructure
+Czech Cubism
+Dacha Typology
+Dalmatian Stone Houses
+Dam Architecture
+Danish Brick Modern
+Data Center Architecture
+Data Libraries
+Dayak Longhouses
+Daylighting Design
+Deconstruction Yards
+Deconstructivism
+Deep Energy Retrofits
+Department Store Design
+Desert
+Desert House
+Desert Modernism
+Desert Tents
+De Stijl Architecture
+Diagrid Facades
+Digital Art Museums
+Digital Baroque
+Digital Twin Control Rooms
+Dining Halls
+Disassemblable Architecture
+Disaster Relief Housing
+District Heating Plants
+Domes
+Domus (Roman)
+Double-Skin Facade
+Drive-in Theaters
+Dune Architecture
+Duplex
+Duplex Loft
+Dutch Canal Houses
+Dutch Colonial Revival
+Early Modernism (America)
+Early Modernism (Europe)
+Earthbag Architecture
+Earthquake Emergency Shelters
+Earthship
+Eastlake Style
+Eco-Friendly Housing
+Eco-Quartier
+EcoQuartier Français
+Eco-Village
+Edge Data Centers
+Edwardian Baroque
+Egyptian Revival
+Egyptian Revival (19th c.)
+Elevated Highways
+Embassy Architecture
+Embassy Compounds
+Emergency Ops Centers
+EnerPHit Retrofits
+Esplanades
+E-sports Arenas
+ETFE Architecture
+Exhibition Design
+Exhibition Halls
+Exotic Revival
+Expo Pavilions
+Expressionism Architecture
+Expressionist Futurism
+Fab Lab Architecture
+Facade Overcladding
+Factory Conversion
+Fairground Architecture
+Farmhouse
+Faroese Grass Roofs
+Federal Style
+Federal Townhouses
+Ferrocement Shells
+Festival Streets
+Field Hospitals
+Fieldhouse
+Film Studios
+Finnish Rationalism
+Fire Command Centers
+Fire Station Design
+Fish Markets
+Flemish Renaissance
+Floating Architecture
+Floating Bridges
+Floating Villages
+Flood Gate Stations
+Flood-Resilient Housing
+Flying Buttresses
+Folding Architecture
+Food Processing Plants
+Food Truck Courts
+Forest Retreat
+Forum Complexes
+French Colonial
+French Regionalist
+Funicular Stations
+Futurist Architecture
+Gabion Architecture
+Galician Horreo
+Gallerias
+Gallery Access Housing
+Garden Apartment
+Garden City Houses
+Garden City Planning
+Garden Suburb
+Garden Suburb Cottage
+Georgian Architecture
+Georgian Townhouses
+Geothermal Houses
+Ger Dwellings
+Ghats Terraces
+Ghost Kitchens
+Glass Box Modernism
+Glass Curtain Wall
+Googie Architecture
+Gopuram Towers
+Gothic Architecture
+Gothic Revival
+Grand Projet Culturel
+Grands Ensembles
+Greek Architecture
+Greek Island Vernacular
+Greek Revival
+Green Belt Planning
+Greenhouse Typology
+Green Roofs
+Greenways
+Grid Shells
+Guesthouse Design
+Gurdwara Architecture
+Hacienda Estates
+Hakka Earthen Houses
+Half-Timbered Houses
+Half-Timber Revival
+Hammam Architecture
+Hangar Architecture
+Hanseatic Warehouses
+Harbor Terminal
+Hausa Architecture
+Haussmannian
+Hellenistic Architecture
+High Line Typology
+High-Performance Envelopes
+High-Rise Apartment
+High-Tech Architecture
+High Victorian Gothic
+Hill Stations Architecture
+Hippodrome
+Home Zones
+Hospital Architecture
+Hostel Design
+Hotel Architecture
+Houseboat Design
+Humanitarian Shelters
+Hungarian Secession
+Hutong Alleys
+Hybrid Office
+Hybrid Timber Towers
+Hydrogen-Ready Buildings
+Hygrothermal Design
+Hyperscale Data Centers
+Ice Hotel Typology
+Icelandic Turf Houses
+Ice Rink
+Igloo Architecture
+Île-de-France Mansions
+Inclusionary Zoning Projects
+Incremental Housing
+Incremental Self-Build
+Incubator/Startup Hub
+Indian Temple Architecture
+Indo-Saracenic Revival
+Industrial Architecture
+Industrial Chic
+Innovation Districts
+Innovation Labs
+Insulae (Roman)
+Intermodal Terminals
+International Corporate
+International Courts
+International Style
+Irish Georgian
+Islamic Architecture
+Italianate
+Italianate Villa
+Italian Rationalism
+Iwan Halls
+Jali Screens
+Japanese Traditional Architecture
+Javanese Pendopo
+Jura Farmhouses
+Kampong Typologies
+Kasbah Architecture
+Kasbah Urbanism
+Khmer Temple Architecture
+Khrushchyovka
+Kindergarten Design
+Kinetic Architecture
+Kit-of-Parts Systems
+Knowledge Quarters
+Korean Hanok
+Lake House
+Landes Half-Timber
+Landscape Urbanism
+Lantern Towers
+Late Modernism
+Learning Commons
+LEED Platinum
+Libraries of Things
+Library Architecture
+Library Learning Hub
+Lift Bridges
+Light Architecture
+Lighthouse Architecture
+Light Rail Stations
+Light Shelves
+Linear Parks
+Living Building Challenge
+Living Walls
+Lock Infrastructure
+Loft Living
+Loggia Design
+Log House
+Logistics Fulfillment Centers
+Longhouse
+Low-Carbon Retrofits
+Low-Tech Architecture
+Machiya Townhouse
+Madrasa Architecture
+Maker Classroom
+Makers’ Alleys
+Makers’ Markets
+Maker Space Hubs
+Malay Stilt Houses
+Mandapa Halls
+Mangrove Piers
+Manor House
+Mansard/Second Empire
+Marina Architecture
+Market Hall Architecture
+Market Square Halls
+Market Streets
+Mashrabiya Facades
+Mass Timber School
+Material Banks
+Mayan Revival
+Media Facade Buildings
+Media Libraries
+Medina Morphology
+Mediterranean Eco-Resorts
+Mediterranean Revival
+Mediterranean Style
+Megacolumn Systems
+Megaron
+Megatall Concepts
+Memphis Group Influence
+Metabolism Urban Megastructures
+Metabolist Architecture
+Metroland Suburbs
+Metro Station Architecture
+Micro-Apartments
+Micro-Loft
+Mid-Century Modern
+Mid-Rise Apartment
+Miesian Minimalism
+Mikrorayon
+Military Barracks
+Mill Architecture
+Minaret Typologies
+Minbars and Mihrabs
+Minimal Bareness
+Minimalist Architecture
+Minimal Traditional
+Minoan Palatial
+Mission Courtyards
+Mission Revival
+Mission Style
+Mixed-Core Skyscrapers
+Mixed-Income Housing
+Mixed Reality Venues
+Mixed-Use Development
+Mobile Clinics
+Mobile Homes
+Model Village Typology
+Modernist Architecture
+Modular Architecture
+Moorish Style
+Mosque Architecture
+Motte-and-Bailey
+Mountain Hut
+Movable Bridges
+Mudéjar
+Mughal Architecture
+Multimodal Hubs
+Muqarnas
+Museum Architecture
+Mycenaean Fortifications
+Natatorium
+National Park Service Rustic
+Nature Center Design
+Ndebele Houses
+Nearly Zero-Energy
+Neo-Brutalism
+Neo-Byzantine
+Neo-Byzantine (UK)
+Neoclassical Architecture
+Neo-Expressionism
+Neo-Futurism
+Neo-Georgian
+Neo-Grec
+Neolithic Architecture
+Neo-Manueline
+Neo-Modernism
+Neo-Mudéjar
+Neo-Romanesque
+Neo-Tudor
+Neo-Vernacular
+Net-Zero Buildings
+Net-Zero School
+New Classical Architecture
+New Materialism
+New Town Brutalism
+New Towns (UK)
+New Urbanism
+Night Markets
+Nighttime Economy Hubs
+Nordic Classicism
+Nordic Functionalism
+Norman Architecture
+Norman Farmsteads
+Norman Keeps
+Norwegian Timber
+Nubian Vaults
+Observation Tower
+Observatory Architecture
+Off-Grid Cabins
+Office Tower
+Open Building Systems
+Open Plan Office
+Open-Source Housing
+Opera House Design
+Operations Control Centers
+Orangeries
+Organic Architecture
+Orientalism
+Ottoman Architecture
+Ottoman Balkans
+Ottonian Architecture
+Outdoor Classroom
+Outrigger Cores
+Pagoda Architecture
+Palace Architecture
+Palladian Architecture
+Panelák
+Panelized Prefab
+Paper Architecture
+Parametric Design
+Parklets
+Parkour Parks
+Parliament Buildings
+Passive House
+Passive House Premium
+Passive Solar Homes
+Passive Ventilation
+Patio Corridors
+Patio Houses
+Pavilion Architecture
+Pedestrian Bridges
+Peranakan Architecture
+Perimeter Block
+Peristyle House
+Permafrost Foundations
+Perpendicular Gothic
+Persian Garden Pavilions
+Photovoltaic Facades
+Piedmontese Baroque
+Pier Architecture
+Pile Dwellings
+Planetarium Design
+Plantagenet Style
+Plantation Houses
+Plateresque
+Playable Cities
+Plug-in City Concepts
+Plus-Energy Office
+Pneumatic Architecture
+Pocket Parks
+Point Block
+Police Station Design
+Polish Cathedral Style
+Polish Manor Houses
+Pombaline Style
+Pop-up Architecture
+Portico Design
+Portuguese Azulejo Facades
+Portuguese Colonial
+Positive Energy Buildings
+Post-Haussmann
+Postmodern Historicism
+Postmodernism
+Power Plant Architecture
+Prairie Style
+Prefabricated Housing
+Prefab Volumetric Modules
+Prison Architecture
+Productive Landscapes
+Projection Mapping Facades
+Promenades
+Provençal Mas
+Pueblo Revival
+Pueblo Style
+PV Canopies
+Quadplex
+Quebecois Vernacular
+Queen Anne Style
+Queenslander
+Radio Broadcast Halls
+Rail Trails
+Railway Station Design
+Rammed Earth
+Rammed Earth Office
+Rammed Earth Walls
+Ranch Style
+Rationalism (Italian)
+Raw Architecture
+Recording Studios
+Recycling Centers
+Reef Lodges
+Refuge Cabins
+Refugee Settlements
+Regency Architecture
+Regency Terraces
+Reinforced Concrete
+Renaissance Architecture
+Renaissance Revival
+Repair Cafés
+Research Campus
+Resort Architecture
+Responsive Facades
+Reuse Depots
+Riad Boutique
+Riad Houses
+Riads Network
+Ribat Forts
+Ribbed Vaults
+Richardsonian Romanesque
+Riverwalks
+Robotic Bricklaying
+Rococo Architecture
+Roman Architecture
+Romanesque Architecture
+Romanesque Revival
+Roman Revival
+Roof Garden Architecture
+Rose Windows
+Rotundas
+Roundabout Plazas
+Row House
+Running Tracks
+Russian Revival
+Russian Wooden Churches
+Rustic Modern
+Ryokan Style
+Safavid Architecture
+Sahelian Mud Architecture
+Saltbox Colonial
+Saltbox House
+Salvaged Architecture
+Sassanid Architecture
+Sassi Cave Dwellings
+Savoie Chalets
+Sawtooth Roofs
+Scandinavian Minimalism
+School Architecture
+Science Park
+Scottish Baronial
+Scottish Baronial Revival
+Seawall Urbanism
+Second Empire
+Seismic Base Isolation
+Seljuk Architecture
+Semiconductor Fabs
+Senior Centers
+Senior Living
+Serbo-Byzantine Revival
+Shared Space Squares
+Shared Street Design
+Shell Structures
+Shingle Style
+Shinto Shrine Architecture
+Shophouses
+Shopping Mall Design
+Shotgun Cottage
+Shotgun House
+Siberian Vernacular
+Sicilian Baroque
+Sicilian Liberty
+Siheyuan Compounds
+Siheyuan Courtyard
+Sikkas & Narrow Alleys
+Skate Parks
+Ski Lodge
+Skip-Stop Housing
+Skybridge Networks
+Sky City Concepts
+Sky Garden Towers
+Sky Lobby Towers
+Skyscraper Design
+Skywalk Systems
+Slab Block
+Smart City Design
+Smithsons’ Streets-in-the-Sky
+Snow Architecture
+Social Housing
+Socialist Modernism
+Soft Portuguese Style
+Solar Decathlon Houses
+Solar Shading Brise-Soleil
+Souk Urbanism
+Soviet Constructivist Housing
+Spa Architecture
+Space Habitat Concepts
+Spanish Colonial
+Spanish Colonial Revival
+Split-Level Houses
+Sports Complex
+Stack Effect Towers
+Stadium Architecture
+Stalinist Empire
+Steel Frame
+Stepwells
+Stick-Eastlake
+Stick Style
+Stilt Houses
+Stoa Buildings
+Stone Drywalling
+Stone Masonry
+Stone Office
+Straw Bale Construction
+Streamline Industrial
+Streamline Moderne
+Street Diets
+Structural Expressionism
+Student Housing
+Student Union Buildings
+Stupa Architecture
+Substation Architecture
+Sumerian & Mesopotamian
+Superblock (Barcelona)
+Superblock Housing
+Superkinetic Urbanism
+Supermarket Architecture
+Superquadra (Brasília)
+Superstudio Radical
+Supertall Typologies
+Suspension Bridges
+Sustainable Architecture
+Swahili Stone Town
+Swedish Folkhem
+Swing Bridges
+Swiss Chalet Revival
+Synagogue Architecture
+Tactical Urbanism
+Team 10 Influences
+Techno-Organic
+Techno-Postmodern
+Tectonism
+Telecom Switch Centers
+Temporary Camps
+Tensile Architecture
+Terraced House
+Terracotta Architecture
+Territorial Revival
+TGV Stations
+Theater Architecture
+Theme Park Design
+Thermal Envelope Wrap
+Thermal Mass Design
+Timber Bridges
+Timber Frame
+Timber Office
+Timurid Architecture
+Tiny Houses
+Tipi/Teepee Structures
+Toraja Tongkonan
+Tours-Nuages Typology
+Tower-in-the-Park
+Town Hall
+Townhouse
+Tracery Facades
+Transit-Adjacent Housing
+Transit-Oriented Development
+Transparent Architecture
+Triplex
+Troglodyte Homes
+Tropical Modernism
+Tropical Villa
+Trullo Houses
+Truss Bridges
+Tsunami Evacuation Towers
+Tudor Revival
+Tulou Communal House
+Tulou Rings
+TV Studios
+Tyrolean Vernacular
+Ultralight Structures
+Unité d’Habitation
+University Campus Planning
+UN Mission Buildings
+Upcycled Interiors
+Urban Climbing Facades
+Urban Decay
+Urban Farming Rooftops
+Urban Food Halls
+Urban Forests
+Urban Microbreweries
+Urban Renewal Design
+Urban Trails
+Valencian Art Deco
+Vastu-Inspired Plans
+Vaults
+Vernacular Architecture
+Vertical Farming Buildings
+Vertical Gardens
+Viaduct Parks
+Victorian Eclecticism
+Villa
+Villa Rustica
+Ville Radieuse Concepts
+Volcano Observatory
+Vosges Mountain Chalets
+Voting Centers
+VR Arcades
+Warehouse Architecture
+Warehouse Loft
+Warehouse Logistics Hubs
+Waste-to-Energy Plants
+Waterfront Markets
+Waterfront Redevelopment
+Waterfront Villas
+Water Treatment Plants
+Wattle and Daub
+Wellness Center Design
+WELL Standard Design
+Welsh Vernacular
+Wetland Boardwalks
+White Architecture
+Wholesale Markets
+Windcatcher Towers
+Window Wall Retrofits
+Wind-Responsive Towers
+Wineries Architecture
+Winter Gardens
+Workers’ Housing
+Youth Centers
+Yugoslav Spomeniks
+Yurt Architecture
+Zen Garden Design
+Zero-Waste Fit-outs
+Zoo Architecture
+Zulu Kraals

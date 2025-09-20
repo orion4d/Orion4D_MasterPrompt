@@ -1,0 +1,40 @@
+Change the pose to a casual walking pose, one foot stepping forward.
+Change the pose to a strolling relaxed pose, arms swinging.
+Change the pose to a skipping playful pose.
+Change the pose to a dancing pose, one arm up, one leg bent.
+Change the pose to a ballet stance, arms gracefully extended.
+Change the pose to a ballet pirouette pose, arms rounded.
+Change the pose to a bowing pose, torso bent forward.
+Change the pose to a curtsy pose, one leg bent, skirt lifted.
+Change the pose to a handshaking pose, arm extended forward.
+Change the pose to a hugging pose, arms wide open.
+Change the pose to a waving pose, one hand raised.
+Change the pose to a pointing pose, arm extended.
+Change the pose to a beckoning pose, hand waving inward.
+Change the pose to a clapping pose, hands together.
+Change the pose to a stretching pose, arms overhead.
+Change the pose to a yawning pose, hand over mouth.
+Change the pose to a drinking pose, cup in hand.
+Change the pose to an eating pose, food lifted to mouth.
+Change the pose to a reading pose, book in hand.
+Change the pose to a writing pose, pen in hand.
+Change the pose to a typing pose, hands in front.
+Change the pose to a carrying pose, box in arms.
+Change the pose to a lifting pose, heavy weight raised.
+Change the pose to a pushing pose, arms extended forward.
+Change the pose to a pulling pose, body leaning back.
+Change the pose to a shopping pose, holding bags.
+Change the pose to a phone call pose, hand at ear.
+Change the pose to a selfie pose, arm extended with phone.
+Change the pose to a guitar playing pose.
+Change the pose to a piano playing pose.
+Change the pose to a violin playing pose.
+Change the pose to a drum playing pose.
+Change the pose to a DJ pose, one hand on headphone.
+Change the pose to a walking dog pose, leash in hand.
+Change the pose to a riding a bicycle pose.
+Change the pose to a skateboarding pose.
+Change the pose to a roller-skating pose.
+Change the pose to a driving pose, hands gripping wheel.
+Change the pose to a fishing pose, rod in hand.
+Change the pose to a gardening pose, crouched planting.

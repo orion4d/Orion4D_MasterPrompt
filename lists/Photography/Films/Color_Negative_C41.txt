@@ -1,0 +1,56 @@
+Kodak — Portra 160 — ISO 160
+Kodak — Portra 400 — ISO 400
+Kodak — Portra 800 — ISO 800
+Kodak — Ektar 100 — ISO 100
+Kodak — Gold 200 — ISO 200
+Kodak — UltraMax 400 — ISO 400
+Kodak — ColorPlus 200 — ISO 200
+Kodak — Pro Image 100 — ISO 100
+Fujifilm — Superia X‑TRA 400 — ISO 400 (availability varies)
+Fujifilm — Fujicolor 200 — ISO 200 (availability varies)
+Fujifilm — Fujicolor C200 — ISO 200 (legacy)
+Fujifilm — Fujicolor 100 — ISO 100 (JP)
+Fujifilm — Industrial 100 — ISO 100 (JP, limited)
+Fujifilm — Pro 400H — ISO 400 (discontinued)
+Fujifilm — 160NS — ISO 160 (discontinued)
+Fujifilm — 800Z — ISO 800 (discontinued)
+CineStill — 50D — ISO 50
+CineStill — 400D — ISO 400
+CineStill — 800T — ISO 800
+Lomography — Color Negative 100 — ISO 100
+Lomography — Color Negative 400 — ISO 400
+Lomography — Color Negative 800 — ISO 800
+Lomography — LomoChrome Purple — ISO 100–400
+Lomography — LomoChrome Turquoise — ISO 100–400
+Lomography — LomoChrome Metropolis — ISO 100–400
+ORWO — Wolfen NC400 — ISO 400
+ORWO — Wolfen NC500 — ISO 400–500
+ADOX — Color Mission — ISO 200 (limited)
+HARMAN — Phoenix 200 — ISO 200
+dubblefilm — Daily — ISO 200
+dubblefilm — Pacific — ISO 200
+dubblefilm — Bubblegum — ISO 200
+dubblefilm — Solar — ISO 200
+dubblefilm — Jungle — ISO 200
+dubblefilm — Apollo — ISO 200
+dubblefilm — Cinema — ISO 800
+Revolog — Kolor — ISO 200
+Revolog — Lazer — ISO 200
+Revolog — Tesla — ISO 200
+Revolog — 460nm — ISO 200
+Revolog — Texture series — ISO 200
+KONO! — Monolit — ISO 3–6 (experimental)
+KONO! — Kolorit — ISO 100–200 (experimental)
+AgfaPhoto — Vista 200 — ISO 200 (discontinued)
+AgfaPhoto — Vista 400 — ISO 400 (discontinued)
+Konica — Centuria 100 — ISO 100 (discontinued)
+Konica — Centuria 200 — ISO 200 (discontinued)
+Konica — Centuria 400 — ISO 400 (discontinued)
+Konica — VX 100 — ISO 100 (discontinued)
+Konica — VX 200 — ISO 200 (discontinued)
+Konica — VX 400 — ISO 400 (discontinued)
+Ferrania — Solaris 100 — ISO 100 (discontinued)
+Ferrania — Solaris 200 — ISO 200 (discontinued)
+Ferrania — Solaris 400 — ISO 400 (discontinued)
+Lucky — Color 200 — ISO 200 (legacy)
+Shanghai — Color 100 — ISO 100 (legacy)

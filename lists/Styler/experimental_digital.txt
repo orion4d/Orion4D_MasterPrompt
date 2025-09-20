@@ -1,0 +1,80 @@
+GAN latent walk morph
+Diffusion noise bloom
+Neural style transfer swirl
+Data bending glitch bars
+Bytebeat pattern render
+Spectrogram painting
+Oscilloscope Lissajous figure
+Shader raymarch fractal
+SDF signed distance field art
+Voronoi cell tessellation
+Delaunay triangulation mesh
+Perlin noise displacement
+Worley noise cellular
+Curl noise flow field
+Vector field advection
+Particle flow trails
+Boids flock simulation
+Reaction-diffusion pattern
+Turing spots and stripes
+Kaleidoscopic symmetry fold
+Mirror tile kaleidoscope
+Escher-esque tiling
+Quasicrystal diffraction
+Moire interference bands
+Chromatic aberration leak
+RGB shift echo
+VHS head-switching noise
+CRT scanline mask
+Analog tape dropout
+Film burn overlay
+Lens crack refraction
+Holographic depth plate
+Pepper’s ghost illusion
+Parallax layers scroll
+Z-depth posterization
+Normal map emboss render
+Ambient occlusion clay
+Specular highlight mask
+SSAO grain texture
+Bloom threshold glow
+Glare diffraction star
+Glitch datamosh smear
+Frame tearing artifacts
+Pixel sort diagonal
+Bit crush quantization
+Palette cycling retro
+CGA four-color posterize
+ANSI teletext mosaic
+Ascii art monochrome
+Bitmap dither Bayer
+Error diffusion dither
+Halftone CMYK rosettes
+Screen print misregister
+Risograph twin-tone
+Dot matrix print banding
+Thermal camera false color
+Infrared gradient map
+X-ray shader bones
+Ultrasound speckle
+Microscopy phase contrast
+SEM electron grain
+Topographic contour lines
+Heightmap displacement
+Point cloud depth render
+LiDAR scan stripes
+Wireframe iso grid
+Blueprint CAD overlay
+HUD reticle overlay
+AR hologram sticker
+UI glitch panels
+Windowed OS artifact
+Console ASCII overlay
+Matrix code rain
+Neon tube signage
+LED marquee scroll
+Laser scan crosshatch
+Light painting long exposure
+Bokeh particle field
+Lens swirl Petzval
+Quantum dot photoluminescence map

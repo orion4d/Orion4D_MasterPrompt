@@ -1,0 +1,214 @@
+Transparent Watercolor
+Opaque Watercolor
+Semi-Opaque Watercolor
+Staining Watercolor
+Non-Staining Watercolor
+Granulating Watercolor
+Heavy Granulation Style
+Non-Granulating Watercolor
+High-Flow Watercolor
+Loose Watercolor
+Tight Watercolor
+Impressionistic Watercolor
+Atmospheric Watercolor
+Tonal Watercolor
+High-Key Watercolor
+Low-Key Watercolor
+Monochrome Wash
+Limited Palette Watercolor
+Earth Palette Watercolor
+Jewel-Tone Watercolor
+Pastel Palette Watercolor
+Neon Watercolor
+Analogous Palette Watercolor
+Complementary Palette Watercolor
+Split-Complementary Watercolor
+Zorn-Inspired Watercolor Palette
+Line and Wash
+Ink and Wash
+No-Line Watercolor
+Sketchbook Watercolor
+Travel Watercolor
+Urban Sketch Watercolor
+Architectural Watercolor
+Botanical Watercolor
+Wildflower Watercolor
+Loose Floral Watercolor
+Negative Painting Florals
+Negative Space Watercolor
+Portrait Watercolor
+Figure Watercolor
+Fashion Illustration Watercolor
+Children’s Book Watercolor
+Editorial Watercolor
+Graphic Watercolor
+Posterized Watercolor
+Flat-Shape Watercolor
+Cut-Paper Look Watercolor
+Calligraphic Brush Watercolor
+Brush-Dance Watercolor
+Broken Brush Watercolor
+Dry Brush Watercolor
+Scumbling Watercolor
+Wet-on-Wet
+Wet-on-Dry
+Dry-on-Dry
+Charging-In
+Edge Charging
+Controlled Wash
+Flat Wash
+Graded Wash
+Variegated Wash
+Glazing
+Layered Glaze Watercolor
+Optical Mixing Watercolor
+Soft-Edge Wash
+Hard-Edge Wash
+Lost-and-Found Edges
+Feathered Edges
+Backruns
+Bloom Effects
+Cauliflowers
+Color Bleeds
+Drip Lines
+Gravity Drips
+Splash and Drip Watercolor
+Spatter Watercolor
+Fine Splatter Watercolor
+Spray and Mist Watercolor
+Droplet Bloom Watercolor
+Salt Texture Watercolor
+Alcohol Texture Watercolor
+Wax Resist Watercolor
+Crayon Resist Watercolor
+Masking Fluid Resist
+Masking Tape Resist
+Plastic Wrap Texture
+Cling Film Texture
+Bubble Wrap Texture
+Sponge Texture Watercolor
+Sgraffito Watercolor
+Scratching Back to White
+Lifting
+Soft Lift Highlights
+Thirsty Brush Lifting
+Tissue Lift
+Scrubbing
+Granulation Lift
+Pigment Sedimentation Texture
+Pigment Separation Effect
+Iridescent Medium Watercolor
+Pearlescent Watercolor Look
+Gouache Hybrid Watercolor
+Body Color Accents
+Watercolor Pencil Wash
+Water-Soluble Graphite Wash
+Ink Line with Watercolor Fill
+Marker Line with Watercolor Fill
+Tea Staining Watercolor
+Coffee and Watercolor Mix
+Bleach Texture Watercolor
+Stencil Watercolor
+Negative Silhouette Watercolor
+Marbled Watercolor
+Galaxy Watercolor
+Night Sky Watercolor
+Aurora Wash Watercolor
+Skyscape Watercolor
+Cloud Studies Watercolor
+Misty Morning Watercolor
+Foggy Wash Watercolor
+Rainy Street Watercolor
+Reflections Watercolor
+Glass and Metal Watercolor
+Chrome Reflection Watercolor
+Seascape Watercolor
+Waves and Foam Watercolor
+River and Rocks Watercolor
+Snow Scene Watercolor
+Winter Mist Watercolor
+Forest Light Watercolor
+Sunlit Wash Watercolor
+Backlit Silhouette Watercolor
+Rim-Light Watercolor
+Soft Glow Watercolor
+Glow and Bloom Watercolor
+Edge-to-Edge Wash
+Wet-Edge Painting
+Soft Merge Watercolor
+Hard Stop Watercolor
+Reserved Whites Watercolor
+Negative Whites Watercolor
+Lost Highlights Watercolor
+High Contrast Watercolor
+Soft Pastel Watercolor
+Muted Neutral Watercolor
+Vivid Saturation Watercolor
+Mineral Palette Watercolor
+Transparent Jewel Wash
+Granite Texture Watercolor
+Rust Texture Watercolor
+Patina Texture Watercolor
+Gritty Urban Watercolor
+Clean Minimal Watercolor
+Painterly Wash Watercolor
+Alla Prima Watercolor
+Layer-by-Layer Watercolor
+Contour-First Watercolor
+Shape-First Watercolor
+Value-First Watercolor
+Edge-First Watercolor
+Botanical Plate Watercolor
+Victorian Botanical Watercolor
+Scientific Illustration Watercolor
+Wildlife Watercolor
+Pet Portrait Watercolor
+Bird Studies Watercolor
+Marine Life Watercolor
+Still Life Watercolor
+Food Illustration Watercolor
+Glass Vessel Watercolor
+Metallic Sheen Watercolor
+Textural Abstraction Watercolor
+Geometric Abstraction Watercolor
+Expressive Gestural Watercolor
+Minimal Line Watercolor
+Contour and Wash Portrait
+Loose Portrait Watercolor
+Drippy Portrait Watercolor
+Soft-Focus Portrait Watercolor
+High-Detail Realist Watercolor
+Hyperrealist Watercolor
+Photo-Real Watercolor
+Watercolor Collage Look
+Mixed-Media Watercolor
+East Asian Brush and Watercolor
+Gansai Watercolor Style
+Sumi-e Fusion Watercolor
+Chinese Brush Watercolor
+Indian Miniature Watercolor Look
+French Wash Watercolor
+English School Transparent Wash
+Plein-Air Watercolor
+Studio Tabletop Watercolor
+Large-Scale Wash Watercolor
+Small Format Sketch Watercolor
+Edge Bloom Control Watercolor
+Granulation-Heavy Landscape
+Bleed-Edge Floral Watercolor
+Hard-Edge Graphic Watercolor
+Soft-Edge Atmospheric Watercolor
+Negative Carved Leaves Watercolor
+Paper-White Highlights Watercolor
+Deckled Edge Watercolor Look
+Vintage Wash Watercolor
+Contemporary Minimal Watercolor
+Moody Tonalist Watercolor
+Color-Field Watercolor
+Vaporwave Watercolor Palette
+Pastel Pop Watercolor
+Earthy Rustic Watercolor
+Ocean-Tone Watercolor
+Sunset Wash Watercolor
+Dawn Wash Watercolor
+Twilight Wash Watercolor

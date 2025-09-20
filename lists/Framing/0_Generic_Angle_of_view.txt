@@ -1,0 +1,185 @@
+360-degree view
+Abstract view
+Aerial view
+Alleyway view
+Architectural view
+back view
+back view Low angle
+back view seen from above
+back view seen from below
+back view, close-up
+back view, close-up Low angle
+back view, close-up seen from above
+back view, close-up seen from below
+back view, extreme close-up
+back view, extreme close-up Low angle
+back view, extreme close-up seen from above
+back view, extreme close-up seen from below
+back view, full-body
+back view, full-body Low angle
+back view, full-body seen from above
+back view, full-body seen from below
+back view, long shot
+back view, long shot Low angle
+back view, long shot seen from above
+back view, long shot seen from below
+back view, medium close-up
+back view, medium close-up seen from above
+back view, medium close-up seen from below
+back view, medium close-up, Low angle
+back view, medium full shot
+back view, medium full shot Low angle
+back view, medium full shot seen from above
+back view, medium full shot seen from below
+back view, medium shot
+back view, medium shot Low angle
+back view, medium shot seen from above
+back view, medium shot seen from below
+Bird's-eye view
+Bottom-up view
+Bridge view
+Cinematic view
+close-up
+Close-up view
+Coastal view
+Converging view
+Curvilinear view
+Daytime view
+Desert view
+Diagonal view
+Distant view
+Diverging view
+Dynamic view
+Elevated view
+establishing shot
+Exterior view
+Extreme close-up
+extreme close-up
+Extreme long shot
+Eye-level view
+Fisheye view
+Forest view
+front view
+front view Low angle
+front view seen from above
+front view seen from below
+front view, close-up
+front view, close-up Low angle
+front view, close-up seen from above
+front view, close-up seen from below
+front view, extreme close-up
+front view, extreme close-up Low angle
+front view, extreme close-up seen from above
+front view, extreme close-up seen from below
+front view, full-body
+front view, full-body Low angle
+front view, full-body seen from above
+front view, full-body seen from below
+front view, long shot
+front view, long shot Low angle
+front view, long shot seen from above
+front view, long shot seen from below
+front view, medium close-up
+front view, medium close-up Low angle
+front view, medium close-up seen from above
+front view, medium close-up seen from below
+front view, medium full shot
+front view, medium full shot Low angle
+front view, medium full shot seen from above
+front view, medium full shot seen from below
+front view, medium shot
+front view, medium shot Low angle
+front view, medium shot seen from above
+front view, medium shot seen from below
+Frontal view
+full body shot
+full shot
+Ground-level view
+High-angle view
+high angle view
+Horizontal view
+Industrial view
+Interior view
+Limited view
+long shot
+Low-angle view
+low angle view
+Macro view
+medium close-up
+medium full shot
+Medium shot
+medium shot
+Mountain view
+Night view
+Normal view
+overhead shot view
+Overhead view
+Panoramic view
+Peripheral view
+Point-of-view shot
+Rear view
+Rectilinear view
+Reverse angle
+Rural landscape view
+Rural view
+Seasonal view
+seen from above view
+seen from behind
+seen from below view
+selfie view
+side view
+Side view
+side view Low angle
+side view seen from above
+side view seen from below
+side view, close-up
+side view, close-up Low angle
+side view, close-up seen from above
+side view, close-up seen from below
+side view, extreme close-up
+side view, extreme close-up seen from above
+side view, extreme close-up seen from below
+side view, extreme close-up, Low angle
+side view, full-body 
+side view, full-body Low angle
+side view, full-body seen from above
+side view, full-body seen from below
+side view, long shot
+side view, long shot Low angle
+side view, long shot seen from above
+side view, long shot seen from below
+side view, medium close-up
+side view, medium close-up Low angle
+side view, medium close-up seen from above
+side view, medium close-up seen from below
+side view, medium full shot
+side view, medium full shot Low angle
+side view, medium full shot seen from above
+side view, medium full shot seen from below
+side view, medium shot
+side view, medium shot Low angle
+side view, medium shot seen from above
+side view, medium shot seen from below
+Spherical view
+Split view
+Static view
+straight on view
+Street-level view
+Sunrise view
+Sunset view
+Telephoto view
+Three-quarter view
+Top-down view
+top down view
+Tunnel view
+Twilight view
+Underground view
+Underwater view
+Unobstructed view
+upper body shot
+Urban skyline view
+Urban view
+Vertical view
+Wide-angle view
+wide angle view
+Worm's-eye view

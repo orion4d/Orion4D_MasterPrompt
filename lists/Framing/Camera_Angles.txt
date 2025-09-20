@@ -1,0 +1,13 @@
+Eye-Level Angle
+High Angle (downward)
+Low Angle (upward)
+Bird’s-Eye View (overhead)
+Worm’s-Eye View (ground-up)
+Dutch Angle / Canted Frame
+Front-On (orthogonal)
+Three-Quarter Angle
+Profile (side-on)
+Back View (from behind)
+POV (Point of View)
+Over-the-Shoulder POV
+Through-the-Object (shooting through)

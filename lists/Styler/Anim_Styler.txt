@@ -1,0 +1,263 @@
+16-bit SNES style
+2000s digital anime style
+2D hand-drawn style
+8-bit sprite animation style
+90s cel anime style
+Aardman claymation style
+Adult Swim surreal style
+Afrofuturist animation style
+Analog tape glitch style
+Anime cel-shaded style
+Anime OP/ED graphic style
+Anime speed-lines style
+Arcane painterly CG style
+Artland style
+ASCII art animation style
+Atompunk animation style
+Bead craft animation style
+Ben-Day dots style
+Biopunk animation style
+Blue Sky Studios style
+Bones snappy action style
+Bones style
+Brains Base style
+Brushstroke animation style
+Calligraphic line animation style
+Camera multiplane style
+Cartoon Network 2000s style
+Cel-animated motion graphics style
+CG toon painterly style
+Charcoal animation style
+Chibi super-deformed style
+Children’s book watercolor style
+Chuck Jones timing style
+City pop anime style
+Claymation style
+CloverWorks pastel modern style
+CloverWorks style
+Colorido luminous kids style
+Colorido watercolor style
+Comic graffiti hybrid style
+Comix Wave style
+CRT scanline toon style
+Cutie mark toy-brand style
+Cutout animation style
+Cut-paper collage style
+Cyberpunk anime style
+Czech stop-motion style
+Dark fantasy animation style
+Datamosh animation style
+David Production style
+Dieselpunk animation style
+Disney Golden Age style
+Disney Renaissance style
+Disney Silver Age style
+Disney Xerography era style
+Doodle sketch animation style
+DreamWorks Animation style
+Duo-chrome graphic style
+Duotone manga style
+Eastern European puppet style
+Elastic smear-frame style
+Embroidery stitch animation style
+Etching-look animation style
+European painterly style
+Exaggerated limited style
+Flash animation style
+Flat infographic animation style
+Fleischer Studios style
+Flipbook animation style
+Found-object stop-motion style
+Fourth-wall gag style
+Franco-Belgian BD style
+French indie animation style
+Full animation style
+Gag cartoon strip style
+Gainax style
+Gainax zany distortion style
+Geometric minimal style
+Ghibli-esque watercolor background style
+Glitch anime style
+Gonzo style
+Gothic toon style
+Gradient cell shading style
+Graffiti street art animation style
+Graphic novel animation style
+Grease-pencil 2D-in-3D style
+Grunge toon style
+Halftone comic style
+Hand-painted textures CG style
+Hanna-Barbera limited style
+Hard cel shading style
+High-contrast chiaroscuro style
+High fantasy toon style
+Hold-frame comedic style
+Hybrid 2D/3D style
+Idol anime glossy style
+Illumination style
+Impact frame anime style
+Ink splatter animation style
+Ink-wash animation style
+Isekai anime style
+Isometric infographic style
+JCStaff style
+Josei anime style
+Kawaii pastel anime style
+Kinema Citrus style
+Kinetic typography style
+KyoAni polished soft style
+Kyoto Animation style
+Laika stop-motion style
+LIDENFILMS style
+Ligne claire animation style
+Liminal analog horror toon style
+Limited animation style
+Limited palette toon style
+Line-boil hand-drawn style
+Linocut animation style
+Lo-fi anime style
+Looney Tunes style
+Low-poly toon style
+Madhouse dramatic realist style
+Madhouse style
+Magazine collage animation style
+Magical girl anime style
+Magic realism toon style
+MAPPA sharp dynamic style
+MAPPA style
+Mecha anime style
+Meta comic panel style
+Miniature diorama CG style
+Minimal flat toon style
+Minimal line art style
+Mixed-media collage style
+Moebius-inspired animation style
+Monochrome ink animation style
+Monochrome manga style
+Motion comic style
+Motion graphics flat style
+Motion manga style
+MTV Liquid Television style
+Mythic fantasy animation style
+Needle-felt stop-motion style
+Neon noir toon style
+Neon vapor palette style
+Newsprint comic style
+Nickelodeon gross-out style
+Noir black-and-white toon style
+No-outline painterly style
+Notebook scribble animation style
+Oil-paint animation style
+Old-school VHS anime style
+OLM style
+Orange (CG anime) style
+Origami animation style
+Painterly NPR render style
+Paint-on-glass animation style
+Panel-based comic style
+Paper-craft CG hybrid style
+Paper cut animation style
+Paper theater style
+Parallax cutout style
+Parallax multiplane style
+Pastel animation style
+Pastel candy palette style
+P.A. Works style
+Peephole diorama animation style
+Photomontage animation style
+Pixar style
+Pixel art animation style
+Pixilation style
+Plastic toy CG style
+Polish surreal animation style
+Polygon Pictures style
+Posterized graphic style
+Production I.G cinematic style
+Production I.G style
+Psychedelic poster animation style
+Puppet animation style
+Quilted fabric animation style
+Retro 80s OVA anime style
+Retro arcade CRT style
+Ripped paper rough style
+Risograph animation style
+Rotoscope style
+Rubber hose animation style
+Rubbery squash-and-stretch style
+Sakuga showcase style
+Sand animation style
+Saturday morning cartoon style
+School chalkboard animation style
+Science SARU minimal vector style
+Science SARU style
+Screencast UI animation style
+Screen-tone manga style
+Seinen anime style
+Shadowbox diorama style
+Shadow puppet animation style
+Shaft head-tilt stylization style
+Shaft style
+Shojo anime style
+Shonen anime style
+Silhouette animation style
+Silkscreen poster toon style
+Silky smear 2D style
+Slice-of-life anime style
+Solarpunk animation style
+Sony Pictures Animation style
+Soviet cutout style
+Spider-Verse style
+Split-screen comic style
+Sports anime dynamic style
+Spray-paint stencil style
+Squigglevision style
+Steampunk animation style
+Sticker animation style
+Stop-mo paper theater style
+Stop-motion look CG style
+Stop-motion sketchbook style
+Stop-motion style
+Storybook illustration style
+Studio 4°C experimental style
+Studio 4°C style
+Studio Colorido style
+Studio Deen style
+Studio Ghibli style
+Studio Khara style
+Studio Pierrot style
+Studio Ponoc style
+Stylized PBR toon style
+Sunrise mecha legacy style
+Sunrise style
+Superflat anime style
+Surreal collage toon style
+Tech noir anime style
+Tex Avery gag style
+Thick outline toon style
+Tilt-shift toy world style
+TMS Entertainment style
+Toei Animation style
+Toei classic TV anime style
+Toon-shader 3D style
+Traditional cel animation style
+Trigger hyper-kinetic style
+Trigger style
+Ufotable glossy effects style
+Ufotable style
+UPA modernist style
+Vaporwave anime style
+Vector flat animation style
+Vector isometric game style
+Vertical scroll webtoon style
+Voxel animation style
+Watercolor animation style
+Water-ink sumi-e style
+Whiteboard animation style
+White Fox style
+Wiggle-line indie style
+Wire armature puppet style
+Wit painterly action style
+Wit Studio style
+Woodcut print animation style
+Y2K anime style
+Zoetrope look style

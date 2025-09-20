@@ -1,0 +1,100 @@
+Ant worker drone
+Ant soldier mech
+Ant queen automaton
+Beetle heavy armor robot
+Stag beetle dueling mech
+Rhinoceros beetle warbot
+Scarab sacred mech
+Ladybug scout drone
+Cockroach survival mech
+Locust swarm drone
+Grasshopper leaping mech
+Cricket soundwave robot
+Mantis assassin mech
+Wasp stinger drone
+Hornet striker mech
+Bee pollinator robot
+Bumblebee worker mech
+Termite builder mech
+Dragonfly aerial mech
+Damselfly scout drone
+Butterfly winged automaton
+Moth stealth robot
+Firefly luminescent mech
+Glowworm crawler bot
+Cicada sonic drone
+Mosquito injector mech
+Flea jumper robot
+Tick parasite mech
+Louse microbot
+Silverfish crawler mech
+Earwig pincer mech
+Centipede crawler mech
+Millipede armored mech
+Scorpion tail stinger mech
+Spider web-weaver automaton
+Tarantula heavy spider mech
+Crab-like mech
+Lobster claw automaton
+Shrimp scout drone
+Praying mantis blade bot
+Atlas beetle war mech
+Goliath beetle heavy mech
+Leafcutter ant bot
+Army ant swarmer
+Bullet ant striker
+Velvet ant robot
+Sand wasp drone
+Paper wasp nest bot
+Cicada killer mech
+Fire ant automaton
+Driver ant swarmer
+Weevil bot
+Longhorn beetle mech
+Jewel beetle chrome mech
+Dung beetle roller bot
+June bug automaton
+Glow beetle neon bot
+Spittlebug drone
+Planthopper mech
+Leafhopper bot
+Shield bug mech
+Stink bug automaton
+Assassin bug mech
+Kissing bug vampire bot
+Bedbug infiltration drone
+Botfly parasitic mech
+Horsefly predator bot
+Housefly scout drone
+Fruit fly swarm bot
+Gnat microdrone
+Sandfly desert mech
+Lacewing flyer bot
+Dobsonfly mech
+Mayfly ephemeral bot
+Stonefly aquatic mech
+Caddisfly mech
+Alderfly automaton
+Sawfly bot
+Ichneumon wasp drone
+Braconid parasite mech
+Giant water bug mech
+Backswimmer aquatic drone
+Water boatman bot
+Whirligig beetle mech
+Predaceous diving beetle bot
+Water strider mech
+Pond skater automaton
+Mosquito hawk dragonfly bot
+Damselfly neon mech
+Glowworm lantern bot
+Glow beetle chrome bot
+Horned beetle mech
+Firefly neon automaton
+Luminous moth bot
+Crystal-winged butterfly bot
+Obsidian mantis mech
+Titan ant automaton
+Colossal spider bot
+Mecha scorpion emperor
+Nanobot insect swarm

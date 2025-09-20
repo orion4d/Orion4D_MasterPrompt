@@ -1,0 +1,100 @@
+Standing idle
+Walking forward
+Running sprint
+Jumping leap
+Flying hover
+Hovering in place
+Landing from flight
+Takeoff vertical
+Swimming crawl
+Diving underwater
+Climbing wall
+Scaling cliff
+Hanging from ceiling
+Crawling spider-like
+Rolling forward
+Transforming sequence
+Weapon deployment
+Shield activation
+Energy blast
+Missile launch
+Laser beam fire
+Plasma burst
+EMP pulse
+Deploying drones
+Launching nanobots
+Repairing self
+Repairing another robot
+Welding sparks
+Cutting torch use
+Scanning environment
+Analyzing sample
+Collecting data
+Projecting hologram
+Communicating signal
+Broadcasting message
+Charging solar panels
+Refueling energy core
+Deploying cargo
+Loading freight
+Carrying object
+Pushing heavy load
+Pulling cart
+Lifting beam
+Drilling ground
+Excavating soil
+Mining rock
+Harvesting crop
+Planting seeds
+Pollinating flowers
+Extinguishing fire
+Spraying water
+Cleaning surface
+Sweeping floor
+Mopping spills
+Vacuuming dust
+Cooking meal
+Serving drink
+Delivering package
+Guarding perimeter
+Patrolling area
+Chasing intruder
+Apprehending target
+Rescuing human
+Performing surgery
+Assisting patient
+Teaching class
+Training soldier
+Competing in race
+Boxing fight
+Martial arts stance
+Sword duel
+Shooting competition
+Target practice
+Dancing performance
+Playing music
+Singing song
+Painting artwork
+Sculpting clay
+Writing text
+Playing chess
+Solving puzzle
+Performing magic trick
+Entertaining crowd
+Acting in play
+Filming movie
+Meditating stillness
+Praying ritual
+Saluting military
+Celebrating victory
+Cheering joy
+Crying in grief
+Showing anger
+Expressing love
+Waving hello
+Shaking hands
+Giving thumbs up
+Pointing direction
+Nodding yes
+Shaking head no
+Tilting head curiosity

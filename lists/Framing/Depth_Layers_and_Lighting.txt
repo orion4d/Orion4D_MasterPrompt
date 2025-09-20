@@ -1,0 +1,14 @@
+Backlight Silhouette Framing
+Rim-Lit Edge Framing
+Side-Light Depth Modeling
+Split-Light Portrait Framing
+Low-Key Negative Space
+High-Key Minimal Shadows
+Atmospheric Depth (haze/fog layers)
+Foreground Blur Framing (bokeh veil)
+Foreground Occlusion (shoot-through leaves/objects)
+Shadow Play Framing
+Chiaroscuro Blocking
+Window Light Framing
+Light Shaft / God Rays Framing
+Refraction Framing (glass/prism)

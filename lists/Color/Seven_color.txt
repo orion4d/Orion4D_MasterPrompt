@@ -1,0 +1,430 @@
+Scarlet  
+Crimson  
+Ruby  
+Cherry  
+Carmine  
+Vermilion  
+Rose Red  
+Fire Red  
+Tomato  
+Coral Red  
+Blood Red  
+Poppy Red  
+Sunset Red  
+Brick Red  
+Candy Apple Red  
+Persian Red  
+Burnt Red  
+Rust Red  
+Wine Red  
+Garnet  
+Maroon  
+Claret  
+Burgundy  
+Dark Red  
+Chestnut  
+Sangria  
+Mahogany  
+Terra Cotta  
+Red Ochre  
+Tuscan Red  
+Copper Red  
+Redwood  
+Brick Orange  
+Vivid Orange Red  
+Safety Orange  
+International Orange  
+Pumpkin  
+Persimmon  
+Tiger Orange  
+Carrot Orange  
+Mandarin  
+Tangerine  
+Coral Orange  
+Sunset Orange  
+Flame Orange  
+Amber  
+Golden Orange  
+Bright Amber  
+Honey Orange  
+Topaz  
+Butterscotch  
+Apricot  
+Peach  
+Salmon Orange  
+Light Orange  
+Soft Apricot  
+Mango  
+Papaya  
+Sunset Gold  
+Amber Gold  
+Goldenrod  
+Golden Yellow  
+Bright Yellow  
+School Bus Yellow  
+Lemon Yellow  
+Canary  
+Daffodil  
+Buttercup  
+Banana  
+Sunny Yellow  
+Flax  
+Pale Gold  
+Saffron  
+Golden Glow  
+Mustard  
+Dandelion  
+Citrine  
+Yellow Ochre  
+Harvest Gold  
+Maize  
+Amber Yellow  
+Sunflower  
+Zinc Yellow  
+Chartreuse Yellow  
+Lime Yellow  
+Spring Bud  
+Lime  
+Bright Lime  
+Electric Lime  
+Neon Green  
+Fresh Green  
+Apple Green  
+Pear Green  
+Pistachio  
+Grass Green  
+Clover Green  
+Kelly Green  
+Shamrock  
+Emerald  
+Green Apple  
+Leaf Green  
+Fern  
+Moss  
+Forest  
+Pine Green  
+Basil Green  
+Cactus Green  
+Olive  
+Army Green  
+Camouflage Green  
+Sage  
+Seaweed Green  
+Jade  
+Verdigris  
+Sea Green  
+Teal Green  
+Mint  
+Aquamarine  
+Turquoise  
+Lagoon  
+Robin Egg  
+Tiffany Blue  
+Sky Aqua  
+Bright Cyan  
+Electric Cyan  
+Process Cyan  
+Capri  
+Cerulean  
+Pacific Blue  
+Azure  
+Sky Blue  
+Light Blue  
+Powder Blue  
+Baby Blue  
+Ice Blue  
+Cloud Blue  
+Cornflower  
+Denim Blue  
+True Blue  
+Royal Blue  
+Cobalt Blue  
+Dodger Blue  
+Sapphire  
+Indigo  
+Ultramarine  
+Deep Blue  
+Prussian Blue  
+Egyptian Blue  
+Oxford Blue  
+Navy  
+Midnight Blue  
+Space Blue  
+Dark Indigo  
+Periwinkle  
+Lavender Blue  
+Lilac  
+Mauve  
+Amethyst  
+Violet  
+Iris  
+Heather  
+Wisteria  
+Orchid  
+Heliotrope  
+Fuchsia  
+Magenta  
+Hot Pink  
+Neon Pink  
+Shocking Pink  
+Rose Pink  
+Bubblegum Pink  
+Carnation  
+Flamingo Pink  
+Watermelon Pink  
+Blush Pink  
+Coral Pink  
+Peach Pink  
+Salmon Pink  
+Pastel Pink  
+Pale Rose  
+Baby Pink  
+Powder Pink  
+Light Mauve  
+Dusty Rose  
+Old Rose  
+Thistle  
+Purple Taupe  
+Dark Plum  
+Mulberry  
+Boysenberry  
+Blackberry  
+Grape  
+Deep Violet  
+Dark Purple  
+Royal Purple  
+Tyrian Purple  
+Imperial Purple  
+Byzantium  
+Eggplant  
+Wine Purple  
+Shadow Purple  
+Dark Magenta  
+Deep Orchid  
+Cosmic Purple  
+Neon Purple  
+Ultra Violet  
+Mystic Violet  
+Vivid Violet  
+Electric Violet  
+Bright Violet  
+Light Violet  
+Pale Lavender  
+Soft Lilac  
+Icy Violet  
+Frosted Lavender  
+Cool Lilac  
+Chalk Violet  
+Moon Violet  
+Dusty Violet  
+Cloud Violet  
+Evening Violet  
+Twilight Violet  
+Dusk Violet  
+Night Violet  
+Deep Space Violet  
+Galaxy Violet  
+Stellar Violet  
+Cosmos Violet  
+Nebula Violet  
+Supernova Violet  
+Infrared Red  
+Infrared Orange  
+Infrared Yellow  
+Infrared Green  
+Infrared Blue  
+Infrared Violet  
+Crimson Glow  
+Ruby Glow  
+Scarlet Glow  
+Vermilion Glow  
+Tangerine Glow  
+Amber Glow  
+Golden Glow  
+Citrine Glow  
+Emerald Glow  
+Turquoise Glow  
+Azure Glow  
+Sapphire Glow  
+Amethyst Glow  
+Magenta Glow  
+Fuchsia Glow  
+Rose Glow  
+Sunset Glow  
+Twilight Glow  
+Midnight Glow  
+Aurora Red  
+Aurora Orange  
+Aurora Yellow  
+Aurora Green  
+Aurora Cyan  
+Aurora Blue  
+Aurora Indigo  
+Aurora Violet  
+Aurora Pink  
+Aurora Magenta  
+Sunrise Red  
+Sunrise Orange  
+Sunrise Yellow  
+Sunrise Green  
+Sunrise Cyan  
+Sunrise Blue  
+Sunrise Violet  
+Sunrise Pink  
+Sunset Red  
+Sunset Orange  
+Sunset Yellow  
+Sunset Green  
+Sunset Cyan  
+Sunset Blue  
+Sunset Violet  
+Sunset Pink  
+Rainbow Red  
+Rainbow Orange  
+Rainbow Yellow  
+Rainbow Green  
+Rainbow Cyan  
+Rainbow Blue  
+Rainbow Indigo  
+Rainbow Violet  
+Radiant Red  
+Radiant Orange  
+Radiant Yellow  
+Radiant Green  
+Radiant Cyan  
+Radiant Blue  
+Radiant Indigo  
+Radiant Violet  
+Fire Red  
+Fire Orange  
+Fire Yellow  
+Fire Green  
+Fire Blue  
+Fire Violet  
+Fire Magenta  
+Neon Red  
+Neon Orange  
+Neon Yellow  
+Neon Green  
+Neon Cyan  
+Neon Blue  
+Neon Violet  
+Neon Pink  
+Bright Red  
+Bright Orange  
+Bright Yellow  
+Bright Green  
+Bright Cyan  
+Bright Blue  
+Bright Violet  
+Bright Pink  
+Soft Red  
+Soft Orange  
+Soft Yellow  
+Soft Green  
+Soft Cyan  
+Soft Blue  
+Soft Violet  
+Soft Pink  
+Light Red  
+Light Orange  
+Light Yellow  
+Light Green  
+Light Cyan  
+Light Blue  
+Light Violet  
+Light Pink  
+Deep Red  
+Deep Orange  
+Deep Yellow  
+Deep Green  
+Deep Cyan  
+Deep Blue  
+Deep Violet  
+Deep Pink  
+Warm Red  
+Warm Orange  
+Warm Yellow  
+Warm Green  
+Warm Cyan  
+Warm Blue  
+Warm Violet  
+Cool Red  
+Cool Orange  
+Cool Yellow  
+Cool Green  
+Cool Cyan  
+Cool Blue  
+Cool Violet  
+Natural Red  
+Natural Orange  
+Natural Yellow  
+Natural Green  
+Natural Cyan  
+Natural Blue  
+Natural Violet  
+True Red  
+True Orange  
+True Yellow  
+True Green  
+True Cyan  
+True Blue  
+True Violet  
+Fluorescent Red  
+Fluorescent Orange  
+Fluorescent Yellow  
+Fluorescent Green  
+Fluorescent Cyan  
+Fluorescent Blue  
+Fluorescent Violet  
+Fluorescent Pink  
+Pastel Red  
+Pastel Orange  
+Pastel Yellow  
+Pastel Green  
+Pastel Cyan  
+Pastel Blue  
+Pastel Violet  
+Pastel Pink  
+Earth Red  
+Earth Orange  
+Earth Yellow  
+Earth Green  
+Earth Cyan  
+Earth Blue  
+Earth Violet  
+Jewel Red  
+Jewel Orange  
+Jewel Yellow  
+Jewel Green  
+Jewel Cyan  
+Jewel Blue  
+Jewel Violet  
+Precious Red  
+Precious Orange  
+Precious Yellow  
+Precious Green  
+Precious Cyan  
+Precious Blue  
+Precious Violet  
+Mystic Red  
+Mystic Orange  
+Mystic Yellow  
+Mystic Green  
+Mystic Cyan  
+Mystic Blue  
+Mystic Violet  
+Galactic Red  
+Galactic Orange  
+Galactic Yellow  
+Galactic Green  
+Galactic Cyan  
+Galactic Blue  
+Galactic Violet  
+Celestial Red  
+Celestial Orange  
+Celestial Yellow  
+Celestial Green  
+Celestial Cyan  
+Celestial Blue  
+Celestial Violet  

@@ -1,0 +1,14 @@
+Base ISO for Clean Stacks
+Aperture f/4–f/8 for 1:1 Single Shot
+Aperture f/2.8–f/4 for Bokeh Isolation
+Aperture f/8–f/11 for Detail with Stacking
+Shutter Speed with Flash Sync
+High-Speed Sync for Bright Ambient
+Manual Exposure for Consistent Stacks
+ETTR for Maximum Detail
+Flash Power vs Recycle Time Balance
+White Balance Card for Color Accuracy
+Manual Focus Only at High Magnification
+Use of Live View and Focus Peaking
+Electronic Front Curtain Shutter
+IBIS Off on Tripod (avoid feedback)

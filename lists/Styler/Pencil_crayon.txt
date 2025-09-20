@@ -1,0 +1,246 @@
+Graphite Sketch
+Gesture Drawing (Pencil)
+Structural Block-In
+Envelope Block-In
+Sight-Size Graphite
+Bargue Plate Method (Graphite)
+Loomis Head Construction (Pencil)
+Contour Line Drawing (Pencil)
+Blind Contour Drawing
+Continuous Line Drawing
+Planar Shading (Pencil)
+Tonal Shading (Graphite)
+Smooth Blended Shading
+Line and Tone Drawing
+Lost-and-Found Edges (Pencil)
+High-Key Graphite
+Low-Key Graphite
+Chiaroscuro Graphite
+Atmospheric Graphite
+Hyperrealist Graphite
+Photorealist Graphite
+Minimal Line Graphite
+Academic Graphite Study
+Figure Drawing (Pencil)
+Portrait Drawing (Pencil)
+Fashion Illustration (Pencil)
+Architectural Pencil Drawing
+Urban Sketch (Pencil)
+Botanical Graphite Plate
+Scientific Illustration (Pencil)
+Industrial Design Pencil
+Product Rendering (Pencil)
+Automotive Pencil Rendering
+Matte Shading (Pencil)
+Glossy Specular Shading (Pencil)
+Metal Rendering (Pencil)
+Glass Rendering (Pencil)
+Hair Rendering (Pencil)
+Fur Rendering (Pencil)
+Skin Rendering (Pencil)
+Fabric Rendering (Pencil)
+Denim Texture (Pencil)
+Wood Grain (Pencil)
+Stone Texture (Pencil)
+Brick Texture (Pencil)
+Concrete Texture (Pencil)
+Water Surface (Pencil)
+Cloud Studies (Pencil)
+Smoke Rendering (Pencil)
+Flame Rendering (Pencil)
+Trees and Foliage (Pencil)
+Grass Texture (Pencil)
+Rocks Study (Pencil)
+Parallel Hatching (Pencil)
+Cross-Hatching (Pencil)
+Cross-Contour Hatching
+Feathered Hatching
+Tapered Hatching
+Basketweave Hatching
+Radial Hatching
+Patch Shading
+Tonal Patching
+Stippling (Pencil)
+Scribble Shading
+Circulism (Graphite)
+Hatching with Rotation
+Hatching Gradation
+Edge Softening (Pencil)
+Edge Sharpening (Pencil)
+Tortillon Blending
+Stump Blending
+Tissue Blending
+Finger Smudge Blending
+Graphite Powder Wash
+Brush-and-Graphite Wash
+Solvent Graphite Blend
+Alcohol Graphite Wash
+Water-Soluble Graphite Wash
+Dry-on-Dry Graphite
+Dry Brush (Pencil)
+Negative Drawing (Pencil)
+Subtractive Drawing (Kneaded Eraser)
+Eraser-Drawn Highlights
+Lift-Out Highlights (Pencil)
+White Pencil on Black Paper
+Pencil on Toned Paper
+Three-Chalk on Toned (Graphite White Sanguine)
+Sanguine Pencil on Toned Paper
+Sepia Pencil Drawing
+Mechanical Pencil Rendering
+HB Drafting Style
+2H Technical Drafting
+6B Expressive Rendering
+Wolff’s Carbon Pencil Style
+Conté Pencil on Toned Paper
+Notan Study (Pencil)
+Value Study (Pencil)
+Thumbnail Value Mapping
+Compositional Blocking (Pencil)
+Edge Mapping (Pencil)
+Plane Breakdowns (Pencil)
+Colored Pencil Layering
+Colored Pencil Glazing
+Colored Pencil Scumbling
+Colored Pencil Cross-Hatching
+Colored Pencil Stippling
+Colored Pencil Circulism
+Colored Pencil Burnishing
+Heavy Burnish Finish
+Light-Pressure Layering
+Solvent Blend (Colored Pencil)
+OMS Blend (Colored Pencil)
+Alcohol Blend (Colored Pencil)
+Colored Pencil on Toned Paper
+White on Black (Colored Pencil)
+Limited Palette Colored Pencil
+High-Chroma Colored Pencil
+Desaturated Colored Pencil
+Pastel Palette Colored Pencil
+Neon Palette Colored Pencil
+Metallic Accents (Colored Pencil)
+Wax-Based Colored Pencil
+Oil-Based Colored Pencil
+Watercolor Pencil Wash
+Dry Watercolor Pencil
+Ink and Colored Pencil
+Marker Underpainting + Colored Pencil
+Watercolor Underpainting + Colored Pencil
+Acrylic Underpainting + Colored Pencil
+Pastel Underpainting + Colored Pencil
+Drafting Film Colored Pencil
+Mylar Colored Pencil
+Sanded Paper Colored Pencil
+Hot Press Paper Colored Pencil
+Cold Press Paper Colored Pencil
+Vellum Bristol Colored Pencil
+Wood Panel Colored Pencil
+Impressed Line (Indentation)
+Sgraffito (Colored Pencil)
+Wax Resist (Colored Pencil)
+Masking Fluid Resist (CP)
+Lift-Out Highlights (Colored Pencil)
+Edge Control (Colored Pencil)
+Soft-Edge Blend (Colored Pencil)
+Hard-Edge Graphic (Colored Pencil)
+Portrait in Colored Pencil
+Figure in Colored Pencil
+Fashion Illustration (Colored Pencil)
+Botanical Plate (Colored Pencil)
+Wildlife in Colored Pencil
+Pet Portrait (Colored Pencil)
+Bird Studies (Colored Pencil)
+Landscape in Colored Pencil
+Seascape in Colored Pencil
+Still Life in Colored Pencil
+Food Illustration (Colored Pencil)
+Technical Illustration (Colored Pencil)
+Wax Crayon Layering
+Wax Crayon Rubbing (Frottage)
+Wax Crayon Texture Plate
+Wax Crayon Sgraffito
+Wax Crayon Resist
+Crayon and Watercolor Resist
+Crayon and Ink Wash
+Broken Crayon Texture
+Crayon Melt Drip
+Crayon Melt Pour
+Crayon Shavings Ironed
+Block Crayon Drawing
+Conté Crayon Figure
+Conté Crayon Portrait
+Red Chalk (Sanguine) Drawing
+Three-Chalk Technique (Black Red White)
+Black Chalk Drawing
+White Chalk Highlights on Toned
+Pierre Noire Drawing
+Charcoal Pencil Hybrid
+Silverpoint-Like Graphite Look
+Graphite Monochrome Realism
+Graphite Tonalist Study
+Graphite High-Contrast Study
+Graphite Minimal Contour
+Graphite Posterization Look
+Graphite Graphic Novel Look
+Academic Cast Drawing (Pencil)
+Plaster Cast Study (Pencil)
+Anatomy Study (Pencil)
+Skull Study (Pencil)
+Master Copy (Pencil)
+Pleated Fabric Study (Pencil)
+Chrome Metal Study (Pencil)
+Glass Refraction Study (Pencil)
+Water Ripples Study (Pencil)
+Cloudscape Sketch (Pencil)
+Tree Bark Study (Pencil)
+Leaf Vein Study (Pencil)
+Feather Study (Pencil)
+Insect Study (Pencil)
+Mineral Study (Pencil)
+Alla Prima Drawing (Pencil)
+Layered Drawing (Pencil)
+Block-In to Finish (Pencil)
+Edge-First Drawing
+Value-First Drawing
+Shape-First Drawing
+Line-First Drawing
+Tight-to-Loose Drawing
+Loose-to-Tight Drawing
+Clean Line Finish (Pencil)
+Painterly Pencil Finish
+Graphic Pencil Finish
+Soft Graphite Bloom Finish
+Matte Graphite Finish
+Glossy Burnished Finish (CP)
+Textural Pencil Finish
+High-Detail Pencil Finish
+Sketchbook Aesthetic (Pencil)
+Storyboard Pencil Look
+Animation Layout Pencil
+Comics Pencil Layout
+Manga Pencil Layout
+White Pencil on Kraft Paper
+Graphite on Newsprint
+Colored Pencil on Kraft Paper
+Wax Crayon on Colored Paper
+Conté on Toned Ingres Paper
+Graphite + White Charcoal on Toned
+Graphite + Chalk Accents
+Colored Pencil + Gouache Accents
+Colored Pencil + Pastel Pencil
+Crayon + Water-Media Hybrid
+Graphite + Ink Crosshatch Hybrid
+Drafting-Style Iso Lines (Pencil)
+Diagrammatic Pencil
+Infographic Pencil
+Cartographic Pencil
+Fashion Flats (Pencil)
+Calligraphic Pencil Line
+Scribble Gesture (Pencil)
+Swoop Linework (Pencil)
+Tight Technical Pencil
+Loose Expressive Pencil
+Notan Thumbnails (Pencil)
+Value Ladder Studies (Pencil)
+Edge Hierarchy Map (Pencil)
+Textural Swatch Sheet (Pencil)

@@ -1,0 +1,20 @@
+Ilford — Ortho Plus — ISO 80 (orthopanchromatic)
+ADOX — ORTHO 25 II — ISO 25 (orthographic)
+Rollei — Ortho 25 — ISO 25 (orthographic)
+Rollei — Infrared 400 — ISO 400 (IR)
+Ilford — SFX 200 — ISO 200 (near‑IR)
+Efke — IR820 Aura — ISO 100 (IR, discontinued)
+Kodak — HIE High Speed Infrared — ISO 1000 (discontinued)
+Maco — IR 820c — ISO 100 (IR, discontinued)
+Agfa — Copex Rapid — ISO 50 (technical)
+ADOX — CMS 20 II — ISO 20 (microfilm)
+Rollei — ATP 1.1 — ISO 32 (technical, discontinued)
+Spur — Orthopan UR — ISO 100 (technical)
+Film Washi — A (aerial) — ISO 12
+Film Washi — D (document) — ISO 500
+Film Washi — F (fluorographic) — ISO 80
+Film Washi — S (sound recording) — ISO 50
+Film Washi — V (aerial surveillance) — ISO 100
+Film Washi — W (hand‑coated washi) — ISO 25
+Film Washi — Z (x‑ray) — ISO 100
+X‑ray films — Fuji/Kodak/Agfa — various (special use)

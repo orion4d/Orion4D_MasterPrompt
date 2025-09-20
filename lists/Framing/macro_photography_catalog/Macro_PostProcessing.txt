@@ -1,0 +1,13 @@
+RAW Development for Macro
+Color Calibration with Target
+Noise Reduction after Stacking
+Chromatic Aberration Cleanup
+Defringe on Specular Edges
+Contrast and Micro-Contrast Tuning
+Local Sharpening on Eyes/Key Details
+Background Smoothing
+Halo Removal from Stacks
+Perspective and Crop Adjustments
+Scale Bar Overlay
+Metadata for Magnification and Stack
+Color Grading for Mood

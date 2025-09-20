@@ -1,0 +1,100 @@
+3D extruded text
+isometric 3D text
+beveled text
+embossed text
+debossed text
+inner shadow text
+drop shadow text
+long shadow text
+double shadow text
+outline text
+double outline text
+stroke-only text
+inline text
+shadow outline text
+inner glow text
+outer glow text
+soft glow text
+neon glow text
+gradient overlay text
+duotone gradient text
+tritone gradient text
+metallic sheen text
+glass reflection text
+specular highlight text
+noise texture text
+film grain text
+paper grain text
+CRT scanlines text
+pixel sort text
+glitch displacement text
+chromatic aberration text
+RGB split text
+datamosh text
+frame tearing text
+motion blur text
+radial blur text
+depth-of-field blur text
+lens flare overlay text
+bokeh overlay text
+god rays text
+double exposure text
+image inside text text
+clipping mask collage text
+water ripple text
+wave warp text
+fisheye warp text
+spherize text
+liquify warp text
+smudge streaks text
+melted drip text
+smoke wisps text
+ink splash text
+paint splatter text
+dust and scratches text
+grunge distressed text
+torn paper edge text
+sticker cutout text
+paper cut layered text
+shadow box layered text
+hatching shading text
+crosshatch shading text
+stippling dots text
+halftone dots text
+comic speed lines text
+sound effect burst text
+screen print texture text
+risograph texture text
+letterpress indent text
+foil stamp text
+spot UV gloss text
+embroidery simulation text
+knit stitch text
+bead sparkle text
+sequins sparkle text
+snow overlay text
+rain streaks text
+lightning strike text
+fire flames text
+smoldering embers text
+smoke haze text
+ice frost edges text
+icicle drip text
+crystal facets text
+stone crack text
+shattered glass text
+mirror shards text
+wireframe text
+blueprint grid text
+tech HUD overlay text
+barcode lines text
+QR pattern text
+circuit trace text
+neon tubing text
+LED dot matrix text
+retro LCD text
+clay extrusion text
+balloon inflate text
+gel text text
+sand erosion text
+moss growth text

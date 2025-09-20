@@ -1,0 +1,50 @@
+Thin Upright Serif text
+Thin Upright Serif (All caps) text
+Thin Upright Serif (Small caps) text
+Thin Upright Serif (Lowercase) text
+Thin Upright Old-style serif text
+Thin Upright Old-style serif (All caps) text
+Thin Upright Old-style serif (Small caps) text
+Thin Upright Old-style serif (Lowercase) text
+Thin Upright Transitional serif text
+Thin Upright Transitional serif (All caps) text
+Thin Upright Transitional serif (Small caps) text
+Thin Upright Transitional serif (Lowercase) text
+Thin Upright Didone serif text
+Thin Upright Didone serif (All caps) text
+Thin Upright Didone serif (Small caps) text
+Thin Upright Didone serif (Lowercase) text
+Thin Upright Slab serif text
+Thin Upright Slab serif (All caps) text
+Thin Upright Slab serif (Small caps) text
+Thin Upright Slab serif (Lowercase) text
+Thin Upright Sans-serif text
+Thin Upright Sans-serif (All caps) text
+Thin Upright Sans-serif (Small caps) text
+Thin Upright Sans-serif (Lowercase) text
+Thin Upright Grotesque sans text
+Thin Upright Grotesque sans (All caps) text
+Thin Upright Grotesque sans (Small caps) text
+Thin Upright Grotesque sans (Lowercase) text
+Thin Upright Humanist sans text
+Thin Upright Humanist sans (All caps) text
+Thin Upright Humanist sans (Small caps) text
+Thin Upright Humanist sans (Lowercase) text
+Thin Upright Geometric sans text
+Thin Upright Geometric sans (All caps) text
+Thin Upright Geometric sans (Small caps) text
+Thin Upright Geometric sans (Lowercase) text
+Thin Upright Rounded sans text
+Thin Upright Rounded sans (All caps) text
+Thin Upright Rounded sans (Small caps) text
+Thin Upright Rounded sans (Lowercase) text
+Thin Upright Monospace text
+Thin Upright Monospace (All caps) text
+Thin Upright Monospace (Small caps) text
+Thin Upright Monospace (Lowercase) text
+Thin Upright Display text
+Thin Upright Display (All caps) text
+Thin Upright Display (Small caps) text
+Thin Upright Display (Lowercase) text
+Thin Upright Decorative text
+Thin Upright Decorative (All caps) text

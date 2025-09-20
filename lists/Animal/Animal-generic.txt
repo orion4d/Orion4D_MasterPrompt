@@ -1,0 +1,553 @@
+Agama
+Albatross
+Aldabra Giant Tortoise
+Alligator
+Alligator Snapping Turtle
+Alpaca
+Amberjack
+American Goldfinch
+Anaconda
+Anchovy
+Angelfish
+Anole
+Ant
+Anteater
+Antlion
+Aphid
+Armadillo
+Armadillo Lizard
+Army ant
+Arowana
+Asiatic Lion
+Assassin bug
+Auk
+Babbler
+Backswimmer
+Badger
+Ball Python
+Barbel
+Bark beetle
+Barklice
+Barn Swallow
+Barracuda
+Barramundi
+Basilisk
+Bass
+Bat
+Beaded Lizard
+Bear
+Beaver
+Bedbug
+Bee
+Bee-eater
+Beetle
+Beluga
+Bengal Tiger
+Betta fish
+Bichir
+Bison
+Black Panther
+Blackbird
+Blenny
+Blister beetle
+Blue Catfish
+Bluefin Tuna
+Bluegill
+Bluejay
+Boa Constrictor
+Bobcat
+Bonito
+Booby
+Booklice
+Boomslang
+Bowfin
+Box Turtle
+Boxfish
+Braconid wasp
+Bream
+Buffalo
+Bullet ant
+Bullfinch
+Bullhead
+Bumblebee
+Bunting
+Burmese Python
+Burying beetle
+Bushmaster
+Butterfly
+Butterflyfish
+Buzzard
+Caddisfly
+Caiman
+Camel
+Canary
+Caracal
+Cardinal
+Cardinalfish
+Carp
+Carpenter ant
+Carpenter bee
+Carpet beetle
+Carpet Python
+Carrion beetle
+Cat
+Catbird
+Catfish
+Cave Swallow
+Centipede
+Chameleon
+Channel Catfish
+Cheetah
+Chickadee
+Chicken
+Chimpanzee
+Chromis
+Chub
+Cicada
+Cicada killer wasp
+Cichlid
+Clam
+Click beetle
+Cliff Swallow
+Clouded Leopard
+Clownfish
+Cobra
+Cockatiel
+Cockatoo
+Cockroach
+Cod
+Collared Lizard
+Condor
+Copperhead
+Coral Snake
+Cormorant
+Corn Snake
+Cottonmouth (Water Moccasin)
+Cougar
+Cow
+Crab
+Crane
+Crappie
+Cricket
+Crocodile
+Crossbill
+Crow
+Cuttlefish
+Dace
+Damselfish
+Damselfly
+Danio
+Darkling beetle
+Dartfish
+Death Adder
+Deer
+Discus
+Diving beetle
+Dog
+Dolphin
+Donkey
+Dove
+Dragon Lizard
+Dragonet
+Dragonfly
+Duck
+Dung beetle
+Eagle
+Earless Lizard
+Earthworm
+Earwig
+Eel
+Egret
+Egyptian Tortoise
+Electric Eel
+Elephant
+Elephant Nose
+Elk
+Emu
+European Goldfinch
+European hornet
+Eyelash Viper
+Falcon
+Featherwing beetle
+Fence Lizard
+Fierce Snake (Inland Taipan)
+Finch
+Fire ant
+Firebrat
+Firefly
+Fishing Cat
+Flamingo
+Flatback Turtle
+Flathead Catfish
+Flea
+Flicker
+Flounder
+Fly
+Flycatcher
+Flying Snake
+Fox
+Freshwater Drum
+Frigatebird
+Frilled Lizard
+Frog
+Frogmouth
+Fruit Fly
+Fulmar
+Fungus beetle
+Gaboon Viper
+Galápagos Tortoise
+Gannet
+Gar
+Garter Snake
+Gecko
+Gharial
+Giant water bug
+Gila Monster
+Giraffe
+Glass Lizard
+Gnat
+Gnatcatcher
+Goat
+Goby
+Goldfinch
+Goldfish
+Goose
+Gopher Tortoise
+Gorilla
+Gourami
+Grasshopper
+Greek Tortoise
+Green Sea Turtle
+Green Tree Python
+Grosbeak
+Ground beetle
+Grouper
+Guillemot
+Gull
+Guppy
+Halibut
+Harrier
+Hawk
+Hawkfish
+Hawksbill Turtle
+Hedgehog
+Hermann's Tortoise
+Heron
+Herring
+Hippopotamus
+Honeybee
+Honeycreeper
+Hoopoe
+Hornbill
+Horned Lizard
+Hornet
+Horse
+Horsefly
+House Finch
+Housefly
+Hummingbird
+Hyena
+Ichneumon wasp
+Iguana
+Indochinese Tiger
+Jack Dempsey
+Jackfish
+Jaguar
+Jay
+Jellyfish
+Jewel beetle
+Jungle Cat
+Kangaroo
+Kenyan Sand Boa
+Kestrel
+Killifish
+King Cobra
+Kingfish
+Kingfisher
+Kinglet
+Kingsnake
+Kite
+Knifefish
+Koala
+Koi
+Komodo Dragon
+Krait
+Lace bug
+Lacewing
+Lady beetle
+Ladybug
+Lapwing
+Leaf beetle
+Leaf insect
+Leafcutter ant
+Leafcutter bee
+Leafhopper
+Leatherback Sea Turtle
+Legless Lizard
+Lemur
+Leopard
+Leopard Tortoise
+Lion
+Lionfish
+Lizard
+Llama
+Lobster
+Locust
+Loggerhead Turtle
+Longhorn beetle
+Lorikeet
+Lory
+Louse
+Lovebird
+Lynx
+Macaw
+Mackerel
+Magpie
+Mahi-mahi (Dolphinfish)
+Malayan Tiger
+Mamba
+Manatee
+Mandarin fish
+Manta ray
+Mantidfly
+Map Turtle
+Marbled Cat
+Marlin
+Martin
+Mata Mata
+Mayfly
+Mealybug
+Meerkat
+Milk Snake
+Millipede
+Minnow
+Mockingbird
+Molly
+Monitor Lizard
+Monkey
+Moose
+Mosquito
+Moth
+Motmot
+Mud Turtle
+Mudskipper
+Mule
+Murre
+Musk Turtle
+Mussel
+Narwhal
+Net-winged beetle
+Newt
+Nighthawk
+Nightingale
+Nutcracker
+Nuthatch
+Ocelot
+Octopus
+Oilbird
+Orangutan
+Oriole
+Oscar
+Osprey
+Ostrich
+Otter
+Owl
+Oyster
+Paddlefish
+Painted Turtle
+Pancake Tortoise
+Panda
+Paper wasp
+Parakeet
+Parrot
+Parrotfish
+Peacock
+Pelican
+Penguin
+Perch
+Petrel
+Phalarope
+Piculet
+Pig
+Pigeon
+Pike
+Pine Siskin
+Pipefish
+Piranha
+Pit Viper
+Platy
+Plover
+Possum
+Potoo
+Praying mantis
+Puff Adder
+Pufferfish
+Puffin
+Purple Finch
+Python
+Quetzal
+Rabbit
+Raccoon
+Racerunner
+Radiated Tortoise
+Rasbora
+Rat Snake
+Rattlesnake
+Raven
+Red-eared Slider
+Redpoll
+Reindeer
+Reticulated Python
+Rhinoceros
+Rhinoceros beetle
+Ribbon Snake
+Roach
+Robin
+Rock Python
+Roller
+Rosy Boa
+Rosy-finch
+Rove beetle
+Rubber Boa
+Rudd
+Russian Tortoise
+Rusty-Spotted Cat
+Sailfish
+Salamander
+Salmon
+Sand Boa
+Sand Cat
+Sandpiper
+Sapsucker
+Sardine
+Sawfly
+Scale insect
+Scarab beetle
+Scorpion
+Scorpionfish
+Scorpionfly
+Sea lion
+Sea Snake
+Sea Turtle
+Seagull
+Seahorse
+Seal
+Serval
+Shark
+Shearwater
+Sheep
+Shield bug
+Shiner
+Shrike
+Shrimp
+Siamese Fighting Fish
+Siberian Tiger
+Sidewinder
+Silverfish
+Skimmer
+Skink
+Skipjack Tuna
+Skunk
+Sloth
+Slug
+Snail
+Snake
+Snakefly
+Snapper
+Snapping Turtle
+Snipe
+Snow Bunting
+Snow Leopard
+Softshell Turtle
+Soldier beetle
+Sole
+Spanish Mackerel
+Sparrow
+Spider
+Spiny Softshell Turtle
+Squid
+Squirrel
+Stag beetle
+Starfish
+Starling
+Stick insect
+Stink bug
+Stonefish
+Stonefly
+Stork
+Storm-petrel
+Sturgeon
+Sugarbird
+Sulcata Tortoise (African Spurred Tortoise)
+Sumatran Tiger
+Sunbird
+Surgeonfish
+Swallow
+Swan
+Sweat bee
+Sweetlips
+Swift
+Swiftlet
+Swordfish
+Swordtail
+Taipan
+Tanager
+Tarantula
+Tarpon
+Tench
+Termite
+Tern
+Terrapin
+Tetra
+Thorny Devil
+Thrasher
+Thrip
+Thrips
+Thrush
+Tick
+Tiger
+Tiger beetle
+Tilapia
+Titmouse
+Toad
+Tortoise
+Toucan
+Tree Snake
+Tree Swallow
+Treecreeper
+Triggerfish
+Trogon
+Tropicbird
+Trout
+Tuatara
+Tuna
+Turkey
+Turtle
+Uromastyx
+Velvet ant
+Vine Snake
+Viper
+Vireo
+Vulture
+Walleye
+Walrus
+Warbler
+Wasp
+Water boatman
+Water Dragon
+Water strider
+Weaver
+Weevil
+Whale
+Whip-poor-will
+Whiptail Lizard
+Whirligig beetle
+Wolf
+Woodpecker
+Wrasse
+Wren
+Wryneck
+Yellowfin Tuna
+Yellowjacket
+Zander
+Zebra

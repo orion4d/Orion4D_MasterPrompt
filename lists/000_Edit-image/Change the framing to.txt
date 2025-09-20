@@ -1,0 +1,30 @@
+Change the framing to a front view, wide shot (dolly in/out, pan left/right, tilt up/down, orbit, zoom).
+Change the framing to a three-quarter front view, wide shot (dolly, pan, orbit).
+Change the framing to a profile view, wide shot (dolly, lateral pan, orbit).
+Change the framing to a three-quarter back view, wide shot (dolly, orbit, pan).
+Change the framing to a back view, wide shot (dolly out, orbit, pan).
+Change the framing to a front view, medium long shot (dolly in/out, pan, tilt, zoom).
+Change the framing to a three-quarter front, medium long shot (dolly, pan, tilt).
+Change the framing to a profile view, medium long shot (pan, dolly).
+Change the framing to a three-quarter back, medium long shot (pan, dolly).
+Change the framing to a back view, medium long shot (dolly, pan).
+Change the framing to a front view, medium shot (dolly, pan, zoom, orbit).
+Change the framing to a three-quarter front, medium shot (pan, zoom).
+Change the framing to a profile, medium shot (pan, tilt, zoom).
+Change the framing to a three-quarter back, medium shot (pan, zoom).
+Change the framing to a back view, medium shot (pan, zoom).
+Change the framing to a front view, medium close-up (pan, tilt, zoom).
+Change the framing to a three-quarter front, medium close-up (pan, tilt).
+Change the framing to a profile, medium close-up (tilt, zoom).
+Change the framing to a three-quarter back, medium close-up (tilt, zoom).
+Change the framing to a back view, medium close-up (tilt, zoom).
+Change the framing to a front view, close-up (zoom, tilt).
+Change the framing to a three-quarter front, close-up (zoom).
+Change the framing to a profile close-up (zoom).
+Change the framing to a three-quarter back close-up (zoom).
+Change the framing to a back of the neck, close-up (zoom).
+Change the framing to an extreme close-up on eyes, front view (zoom in/out).
+Change the framing to an extreme close-up on eyes, three-quarter front (zoom).
+Change the framing to an extreme close-up on eyes, profile view (zoom).
+Change the framing to an extreme close-up on detail, three-quarter back (zoom).
+Change the framing to an extreme close-up on detail, back view (zoom).

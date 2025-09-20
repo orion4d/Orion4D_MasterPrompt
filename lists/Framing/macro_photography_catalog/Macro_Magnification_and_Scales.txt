@@ -1,0 +1,15 @@
+Close-Up (0.2×–0.5×)
+Macro 1:2 (0.5×)
+True Macro 1:1 (1.0×)
+High Magnification 2:1 (2.0×)
+Extreme Macro 3:1 to 5:1
+Ultra Macro 5:1 to 10:1
+Microscope Objective on Camera (10×–20×)
+Working Distance Management
+Effective Aperture at Magnification
+Diffraction Onset vs f-number
+Depth of Field at 1:1 and beyond
+Field of View at Given Magnification
+Scale Bar and Ruler Inclusion
+Pixel Pitch Considerations in Macro
+Focus Breathing and Magnification Shift

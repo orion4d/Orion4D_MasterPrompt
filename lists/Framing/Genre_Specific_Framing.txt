@@ -1,0 +1,21 @@
+Product Hero Shot (three-quarter)
+Product Flat Lay (top-down)
+Food 45-Degree Tabletop
+Food Overhead Tabletop
+Architecture Front Elevation
+Architecture Corner (two-point)
+Architecture Courtyard Enclosure
+Street Over-the-Shoulder
+Street Reflection Framing (windows)
+Street From-the-Hip
+Wildlife Eye-Level in Habitat
+Wildlife Low Angle (ground level)
+Wildlife Through Foliage (concealment)
+Portrait Environmental Context
+Portrait Head-and-Shoulders
+Portrait Full-Length Fashion
+Macro Top-Down Specimen
+Macro Side Profile
+Aerial Orthographic Top-Down
+Aerial Oblique Landscape
+Underwater Split Shot (over/under)

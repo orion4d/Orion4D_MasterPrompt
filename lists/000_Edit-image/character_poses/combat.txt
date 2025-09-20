@@ -1,0 +1,40 @@
+Change the pose to a heroic stance, chest forward, hands on hips.
+Change the pose to a battle-ready stance, fists raised.
+Change the pose to a boxing guard pose, fists close to face.
+Change the pose to a martial arts fighting stance, knees bent, arms up.
+Change the pose to a karate stance, one arm extended, other guarding.
+Change the pose to a sword stance, weapon raised.
+Change the pose to a sword strike pose, weapon mid-swing.
+Change the pose to a dual-wielding stance, two weapons held outward.
+Change the pose to a spear stance, weapon angled forward.
+Change the pose to a spear thrust pose, body lunging.
+Change the pose to a shield pose, one arm raised defensively.
+Change the pose to a shield bash pose, pushing forward.
+Change the pose to an archer’s stance, bow drawn.
+Change the pose to a crossbow aim pose.
+Change the pose to a throwing knife stance, arm cocked back.
+Change the pose to a throwing spear pose, arm raised overhead.
+Change the pose to a spell-casting stance, arms raised.
+Change the pose to a summoning pose, arms extended upward.
+Change the pose to a defensive crouch pose, arms guarding.
+Change the pose to a victorious pose, one arm raised.
+Change the pose to a power-up pose, fists glowing with energy.
+Change the pose to a charging forward pose, weapon ready.
+Change the pose to a blocking stance, arms crossed.
+Change the pose to a grappling stance, arms extended.
+Change the pose to a wrestling stance, low and wide.
+Change the pose to a heavy punch pose, arm fully extended.
+Change the pose to a kicking stance, leg raised high.
+Change the pose to a spin kick pose, body mid-turn.
+Change the pose to a knee strike pose.
+Change the pose to a ground slam pose, fists pounding.
+Change the pose to a taunting pose, arms spread wide.
+Change the pose to a salute pose, one hand at the forehead.
+Change the pose to a guard duty stance, holding a spear upright.
+Change the pose to a rallying stance, flag raised high.
+Change the pose to a war cry stance, mouth open, arms raised.
+Change the pose to a stealth crouch pose, body low, ready to attack.
+Change the pose to a dagger stance, low and quick.
+Change the pose to a magic barrier stance, one arm raised in defense.
+Change the pose to a final strike pose, weapon overhead.
+Change the pose to a superhero victory pose, cape flowing.
