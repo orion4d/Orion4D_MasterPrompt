@@ -2,6 +2,8 @@
 
 Welcome to the **MasterPrompt** suite, a collection of custom nodes for ComfyUI designed to supercharge your text, list, and JSON manipulation workflows. Whether you need to dynamically load styles from files, mix concepts with weighted probabilities, format complex prompts, or handle JSON data, this suite provides the necessary tools with intuitive and powerful user interfaces. As a bonus I have included a basic pack of thematic lists generated with gpt5, have fun!
 
+![491900008-f19cc2e8-6faa-4e42-a4a8-d3d56299710a](https://github.com/user-attachments/assets/df3447e4-9e40-4a39-acaf-418b7ac4a48b)
+
 <img width="2082" height="962" alt="image" src="https://github.com/user-attachments/assets/a2624a84-1723-49ef-965a-8e34ab25aa58" />
 <img width="1479" height="1089" alt="image" src="https://github.com/user-attachments/assets/aa67956e-6f41-4f0f-9969-1fd3884d255f" />
 <img width="1262" height="1147" alt="image" src="https://github.com/user-attachments/assets/95388d0b-1a1f-4483-98f3-413a1db3d518" />
